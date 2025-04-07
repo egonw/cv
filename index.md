@@ -237,6 +237,23 @@ Problem-based Learning (PBL) **Tutor, Biomedical Sciences**. Maastricht Universi
 
 ## Awards and honors
 
+`2021`
+**Runner Up Prize, Open Initiatives Trophies**
+From the jury-report: *"Egon is someone with high standards who really tries to
+hold himself accountable to these as well. He is not afraid to point his finger at
+the elephant in the room. We need people like Egon as a long time driving force
+for cultural change."*
+
+`2013`
+**Royal Society of Chemistry eScience Hero Award**
+For the contributions open source cheminformatics, in particular the Chemistry
+Development Kit, $2500. [<i class="fa-solid fa-newspaper"></i> press release](https://www.rsc.org/news-events/articles/2013/04-april/rsc-escience-heroes-rewarded-through-microsoft-prize/)
+
+`2007`
+**Blue Obelisk Award**
+For achievements in promoting Open Data, Open Source, and Open Standards
+in cheminformatics.
+
 ## Grants and funding
 
 <i class="fa-regular fa-money-bill-1"></i> = grant, UM = Maastricht University
@@ -390,7 +407,7 @@ Puck Moll. **Nieuwe generatie**, C2W (2017), [https://www.sciencelink.net/nieuws
 `2014`
 Wendy Degens, Cleo Freriks, Maurice Timmermans, **“I see bright researchers leaving the university”**, Observant (2014) [https://www.observantonline.nl/english/Home-old/Articles/articleType/ArticleView/articleId/2111/I-see-bright-researchers-leaving-the-university](https://www.observantonline.nl/english/Home-old/Articles/articleType/ArticleView/articleId/2111/I-see-bright-researchers-leaving-the-university)
 
-### Interational Newsletters
+### International Newsletters
 
 `2022`
 **ELIXIR launches new Toxicology Community**, ELIXIR Europe News (2022) [https://elixir-europe.org/news/new-toxicology-community](https://elixir-europe.org/news/new-toxicology-community)
@@ -403,8 +420,15 @@ Wendy Degens, Cleo Freriks, Maurice Timmermans, **“I see bright researchers le
 `1993-???,???-present`
 **KNCV**
 
+`2023-2024`
+**American Chemical Society**
 
+## Languages
 
-<!-- ### Footer
+Native: Dutch
 
-Last updated: April 2025 -->
+Advanced: English
+
+Basic: German
+
+<br/>Last updated: April 2025<br/><br/>
