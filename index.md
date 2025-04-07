@@ -188,56 +188,56 @@ Problem-based Learning (PBL) Tutor, Biomedical Sciences. Maastricht University
 
 ## Grants and funding
 
-UM = Maastricht University
+<i class="fa-regular fa-money-bill-1"></i> = grant, UM = Maastricht University
 
 ### Research grants
 
 `2024-present`
 **INTOXICOM Implementation Study**. <!-- Coordinator: UM. Other: . -->
-ELIXIR Europe. Sum: 59 k€, Person: ?? k€. *With Marvin Martens*
+ELIXIR Europe. Sum: 59 k€, Person: ?? k€. *Co-PI with Marvin Martens*
 
 `2023-present`
 **TGX-MAP: Transcriptomics in Risk Assessment**. <!-- Coordinator: Leiden University. Other: UM, a few more. -->
-EFSA. Sum: ?? k€, UM: ?? k€. *With Tooba Abbassi-Daloii and Marvin Martens*
+EFSA. Sum: ?? k€, UM: 276 k€. *Co-PI with Tooba Abbassi-Daloii and Marvin Martens*.
 
 `2012-present`
 **The Virtual Human Platform for Safety Assessment**. 
-Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272). Sum: ?? k€, UM: ?? k€. *With Chris Evelo*
+Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272). Sum: 10.4 M€, UM: ?? k€. *Co-PI with Chris Evelo*.
 
 `2024-2025`
-**Chemistry Development Kit 2024**. <!-- Coordinator: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO). Sum: 50 k€, Person: 25 k€. 
+**Chemistry Development Kit 2024**. <!-- Coordinator: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO). Sum: 50 k€, Person: 25 k€. *Sole PI*.
 
 `2022-2023`
 **Lipid Pathway Curation**. <!-- Coordinator: Cardiff University. Other: UM -->
-ELIXIR Europe. Sum: ?? k€, UM: 5.7 k€. *With Denise Slenter*
+ELIXIR Europe. Sum: ?? k€, UM: 5.7 k€. *Co-PI with Denise Slenter*.
 
 `2022-2023`
 **BridgeDb and Wikidata: a powerful combination generating interoperable open research**, <!-- Coordinator: UM. -->
-Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 203.001.121](https://www.nwo.nl/en/projects/203001121). Sum: 50 k€, UM: 50 k€.
+Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 203.001.121](https://www.nwo.nl/en/projects/203001121). Sum: 50 k€, UM: 50 k€. *Sole PI*.
 
 `2020-2024`
 **Computing infrastructure for the definition, performance testing and implementation of safe-by-design approaches in nanotechnology supply chains (SbD4nano)**, <!-- Coordinator: ITENE. Other: UM -->
-European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 862195](https://cordis.europa.eu/project/id/862195). Sum: 5.98 M€, UM: 343 k€.
+European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 862195](https://cordis.europa.eu/project/id/862195). Sum: 5.98 M€, UM: 343 k€. *Sole PI*.
 
 `2019-2021`
 **Scholia**, <!-- Coordinator: University of Virginia. Other: UM -->
-Alfred P. Sloan Foundation. [<i class="fa-regular fa-money-bill-1"></i> G-2019-11458](https://sloan.org/grant-detail/g-2019-11458). Sum: 496 k€, UM: 75 k€.
+Alfred P. Sloan Foundation. [<i class="fa-regular fa-money-bill-1"></i> G-2019-11458](https://sloan.org/grant-detail/g-2019-11458). Sum: 496 k€, UM: 75 k€. *Sole PI*.
 
 `2019-2023`
 **Risk Governance of Nanotechnology (RiskGONE)**, <!-- Coordinator: NILU. Other: UM -->
-European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 814425](https://cordis.europa.eu/project/id/814425). Sum: 5.00 M€, UM: 221 k€.
+European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 814425](https://cordis.europa.eu/project/id/814425). Sum: 5.00 M€, UM: 221 k€. *Sole PI*.
 
 `2019-2023`
 **Innovative Nanoinformatics models and tools: towards a Solid, verified and Integrated Approach to Predictive (eco)Toxicology (NanoSolveIT)**, <!-- Coordinator: NovaMechanics. Other: UM -->
-European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 814572](https://cordis.europa.eu/project/id/814572). Sum: 7.49 M€, UM: 407 k€.
+European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 814572](https://cordis.europa.eu/project/id/814572). Sum: 7.49 M€, UM: 407 k€. *Sole PI*.
 
 `2018-2022`
 **The European Nanotechnology Community Informatics Platform: Bridging data and disciplinary gaps for industry and regulators (NanoCommons)**, <!-- Coordinator: UoB. Other: UM -->
-European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 731032](https://cordis.europa.eu/project/id/731032). Sum: 5.59 M€, UM: 291 k€.
+European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 731032](https://cordis.europa.eu/project/id/731032). Sum: 5.59 M€, UM: 291 k€. *Sole PI*.
 
 `2014-2017`
 **eNanoMapper - A Database and Ontology Framework for Nanomaterials Design and Safety Assessment**, <!-- Coordinator: EC. Other: UM -->
-European Commission FP7. [<i class="fa-regular fa-money-bill-1"></i> 604134](https://cordis.europa.eu/project/id/604134). Sum: 4.98 M€, UM: 843 k€.
+European Commission FP7. [<i class="fa-regular fa-money-bill-1"></i> 604134](https://cordis.europa.eu/project/id/604134). Sum: 4.98 M€, UM: 843 k€. *Sole PI*.
 
 <!--
 \CVItem{2015, \textit{AMBIT}, Cefic Long-Range Research Intitiative}{
