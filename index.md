@@ -40,22 +40,20 @@ Assistant professor, Maastricht University.
 **Postdoc**, *Department of Bioinformatics, Maastricht University*, Maastricht, The Netherlands.
 
 `2011`
-**Postdoc**, Institute for Environmental Medicine, Karolinska Institutet*, Stockholm, Sweden.
+**Postdoc**, *Institute for Environmental Medicine, Karolinska Institutet*, Stockholm, Sweden.
 
 `2010`
-**Postdoc**, Unilever Center for Molecular Molecular Informatics, Univer-
-sity of Cambridge*, Cambridge, United Kingdom.
+**Postdoc**, *Unilever Center for Molecular Molecular Informatics, University of Cambridge*, Cambridge, United Kingdom.
 
 `2008-2010`
-**Postdoc**, Department of Pharmaceutical Biosciences, Uppsala
-University*, Uppsala, Sweden.
+**Postdoc**, *Department of Pharmaceutical Biosciences, Uppsala University*, Uppsala, Sweden.
 
 `2007-2008`
-**Postdoc**, Plant Research International, Wageningen University
+**Postdoc**, *Plant Research International, Wageningen University
 & Research Centre*, Wageningen, The Netherlands.
 
 `2006-2007`
-**Postdoc**, Cologne University Bioinformatics Centre, Cologne
+**Postdoc**, *Cologne University Bioinformatics Centre, Cologne
 University*, Cologne, Germany.
 
 
