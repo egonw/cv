@@ -123,36 +123,36 @@ US, Ch. 16, ISBN: 0-596-15711-8, 2009.
 ### B-roles
 
 `2013-present`
-Course coordinator, PRA3006: Programming in the Life Sciences. Maastricht University
+Course coordinator, **PRA3006: Programming in the Life Sciences**. Maastricht University
 
 `2018-2020`
-Block coordinator, MBS1015: Scientific Programming. Maastricht University
+Block coordinator, **MBS1015: Scientific Programming**. Maastricht University
 
 `2017-2018`
-Block coordinator, BMS1004: Biomedical Approaches. Development. Maastricht University
+Block coordinator, **BMS1004: Biomedical Approaches**. Development. Maastricht University
 
 `2012-2018`
-Track coordinator, BMW2007: Bioinformatics and Systems Biology. Maastricht University
+Track coordinator, **BMW2007: Bioinformatics and Systems Biology**. Maastricht University
 
 `2007`
-Teacher, Homology Modelling. Course coordination and teacher. Cologne University
+Teacher, **Homology Modelling**. CUBIC, Cologne University
 
 ### A-roles
 
 `2016-present`
-Mentor Year 1-3, Biomedical Sciences. Maastricht University
+**Mentor Year 1-3, Biomedical Sciences**. Maastricht University
 
 `2016-2022`
-Block planning group member, BBS1001: Building Blocks of Life. Maastricht University
+Block planning group member, **BBS1001: Building Blocks of Life**. Maastricht University
 
 `2015-2016`
-Block planning group member, BMW1006: Experts Collaborate. Maastricht University
+Block planning group member, **BMW1006: Experts Collaborate**. Maastricht University
 
 `2015-2016`
-Mentor Year 1, Biomedical Sciences. Maastricht University
+**Mentor Year 1, Biomedical Sciences**. Maastricht University
 
 `2014-2019`
-Problem-based Learning (PBL) Tutor, Biomedical Sciences. Maastricht University
+Problem-based Learning (PBL) **Tutor, Biomedical Sciences**. Maastricht University
 
 ## Thesis promotorship and supervision
 
