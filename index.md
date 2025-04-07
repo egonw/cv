@@ -194,55 +194,54 @@ UM = Maastricht University
 
 `2024-present`
 **INTOXICOM Implementation Study**. <!-- Coordinator: UM. Other: . -->
-ELIXIR Europe. Sum: 59 k€, Person: ?? k€
+ELIXIR Europe. Sum: 59 k€, Person: ?? k€. *With Marvin Martens*
 
 `2023-present`
-**TGX-MAP: Transcriptomics in Risk Assessment**. <!-- Coordintor: Leiden University. Other: UM, a few more. -->
-EFSA. Sum: ?? k€, UM: ?? k€
+**TGX-MAP: Transcriptomics in Risk Assessment**. <!-- Coordinator: Leiden University. Other: UM, a few more. -->
+EFSA. Sum: ?? k€, UM: ?? k€. *With Tooba Abbassi-Daloii and Marvin Martens*
+
+`2012-present`
+**The Virtual Human Platform for Safety Assessment**. 
+Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272). Sum: ?? k€, UM: ?? k€. *With Chris Evelo*
 
 `2024-2025`
-**Chemistry Development Kit 2024**. <!-- Coordintor: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO). Sum: 50 k€, Person: 25 k€. 
+**Chemistry Development Kit 2024**. <!-- Coordinator: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO). Sum: 50 k€, Person: 25 k€. 
 
 `2022-2023`
-**Lipid Pathway Curation**. <!-- Coordintor: Cardiff University. Other: UM -->
-ELIXIR Europe. Sum: ?? k€, UM: 5.7 k€.
+**Lipid Pathway Curation**. <!-- Coordinator: Cardiff University. Other: UM -->
+ELIXIR Europe. Sum: ?? k€, UM: 5.7 k€. *With Denise Slenter*
 
 `2022-2023`
-**BridgeDb and Wikidata: a powerful combination generating interoperable open research
-**, <!-- Coordintor: UM. -->
-Dutch Research Council (NWO), [203.001.121](https://www.nwo.nl/en/projects/203001121). Sum: 50 k€, UM: 50 k€.
+**BridgeDb and Wikidata: a powerful combination generating interoperable open research**, <!-- Coordinator: UM. -->
+Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 203.001.121](https://www.nwo.nl/en/projects/203001121). Sum: 50 k€, UM: 50 k€.
 
 `2020-2024`
-**Computing infrastructure for the definition, performance testing and implementation of safe-by-design approaches in nanotechnology supply chains (SbD4nano)**, <!-- Coordintor: ITENE. Other: UM -->
-European Commission H2020. [862195](https://cordis.europa.eu/project/id/862195). Sum: 5.98 M€, UM: 343 k€.
+**Computing infrastructure for the definition, performance testing and implementation of safe-by-design approaches in nanotechnology supply chains (SbD4nano)**, <!-- Coordinator: ITENE. Other: UM -->
+European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 862195](https://cordis.europa.eu/project/id/862195). Sum: 5.98 M€, UM: 343 k€.
 
 `2019-2021`
-**Scholia**, <!-- Coordintor: ITENE. Other: UM -->
-Alfred P. Sloan Foundation. Sum: ?? k€, UM: 75 k€.
+**Scholia**, <!-- Coordinator: University of Virginia. Other: UM -->
+Alfred P. Sloan Foundation. [<i class="fa-regular fa-money-bill-1"></i> G-2019-11458](https://sloan.org/grant-detail/g-2019-11458). Sum: 496 k€, UM: 75 k€.
 
 `2019-2023`
-**Risk Governance of Nanotechnology (RiskGONE)**, <!-- Coordintor: NILU. Other: UM -->
-European Commission H2020. [814425](https://cordis.europa.eu/project/id/814425). Sum: 5.00 M€, UM: 221 k€.
+**Risk Governance of Nanotechnology (RiskGONE)**, <!-- Coordinator: NILU. Other: UM -->
+European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 814425](https://cordis.europa.eu/project/id/814425). Sum: 5.00 M€, UM: 221 k€.
 
 `2019-2023`
-**Innovative Nanoinformatics models and tools: towards a Solid, verified and Integrated Approach to Predictive (eco)Toxicology (NanoSolveIT)**, <!-- Coordintor: NovaMechanics. Other: UM -->
-European Commission H2020. [814572](https://cordis.europa.eu/project/id/814572). Sum: 7.49 M€, UM: 407 k€.
+**Innovative Nanoinformatics models and tools: towards a Solid, verified and Integrated Approach to Predictive (eco)Toxicology (NanoSolveIT)**, <!-- Coordinator: NovaMechanics. Other: UM -->
+European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 814572](https://cordis.europa.eu/project/id/814572). Sum: 7.49 M€, UM: 407 k€.
 
 `2018-2022`
-**The European Nanotechnology Community Informatics Platform: Bridging data and disciplinary gaps for industry and regulators (NanoCommons)**, <!-- Coordintor: UoB. Other: UM -->
-European Commission H2020. [731032](https://cordis.europa.eu/project/id/731032). Sum: 5.59 M€, UM: 291 k€.
+**The European Nanotechnology Community Informatics Platform: Bridging data and disciplinary gaps for industry and regulators (NanoCommons)**, <!-- Coordinator: UoB. Other: UM -->
+European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 731032](https://cordis.europa.eu/project/id/731032). Sum: 5.59 M€, UM: 291 k€.
 
 `2014-2017`
-**eNanoMapper - A Database and Ontology Framework for Nanomaterials Design and Safety Assessment**, <!-- Coordintor: EC. Other: UM -->
-European Commission FP7. [604134](https://cordis.europa.eu/project/id/604134). Sum: 4.98 M€, UM: 843 k€.
+**eNanoMapper - A Database and Ontology Framework for Nanomaterials Design and Safety Assessment**, <!-- Coordinator: EC. Other: UM -->
+European Commission FP7. [<i class="fa-regular fa-money-bill-1"></i> 604134](https://cordis.europa.eu/project/id/604134). Sum: 4.98 M€, UM: 843 k€.
 
 <!--
 \CVItem{2015, \textit{AMBIT}, Cefic Long-Range Research Intitiative}{
 Collaborator, work on Chemistry Development Kit, EEM9.3-IC, 16 k€.
-}
-
-\CVItem{2021, \textit{VHP4Safety}, Dutch NWO}{
-co-PI, NWA 1292.19.272, 3 postdocs + 1 PhD.
 }
 
 \CVItem{2020, \textit{EpiLipidNET}, COST Action}{
