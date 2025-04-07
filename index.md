@@ -149,16 +149,16 @@ Teacher, Homology Modelling. Course coordination and teacher. Cologne University
 ### Ph.D. co-promotor
 
 `2017-2024`
-**Denise Slenter**, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240624ds](https://doi.org/10.26481/dis.20240624ds)
+**Denise Slenter**, Maastricht University. <i class="fa-solid fa-building-columns"></i> [10.26481/dis.20240624ds](https://doi.org/10.26481/dis.20240624ds)
 
 `2017-2024`
-**Marvin Martens**, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240129mm](https://doi.org/10.26481/dis.20240129mm)
+**Marvin Martens**, Maastricht University. <i class="fa-solid fa-building-columns"></i> [doi:]10.26481/dis.20240129mm](https://doi.org/10.26481/dis.20240129mm)
 
 `2019-2024`
-**Andra Waagmeester**, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240116aw](https://doi.org/10.26481/dis.20240116aw)
+**Andra Waagmeester**, Maastricht University. <i class="fa-solid fa-building-columns"></i> [doi:]10.26481/dis.20240116aw](https://doi.org/10.26481/dis.20240116aw)
 
 `2018-2023`
-**Ryan Miller**, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20221206rm](https://doi.org/10.26481/dis.20221206rm)
+**Ryan Miller**, Maastricht University. <i class="fa-solid fa-building-columns"></i> [10.26481/dis.20221206rm](https://doi.org/10.26481/dis.20221206rm)
 
 ### Ph.D. supervision
 
