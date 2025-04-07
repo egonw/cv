@@ -295,6 +295,50 @@ Bio.tools project; $\sim$5 kEuro).
 `2007`
 **GDCh-Wissenschaftsforum Chemie 2007**. Ulm, Germany
 
+## Media
+
+### Opinions
+
+`2020`
+Caspar van Lissa c.s. **Overheid wees transparant in strijd tegen het coronavirus**. NRC (2020) https://www.nrc.nl/nieuws/2020/04/27/overheid-wees-transparant-in-strijd-tegen-het-coronavirus-a3997982
+
+`2019`
+Egon Willighagen. **Universiteiten mogen hun rol in de samenleving niet uitbesteden**. ScienceGuide (2019) https://www.scienceguide.nl/2019/11/universiteiten-mogen-hun-rol-in-de-samenleving-niet-uitbesteden/
+
+### Interviews
+
+`2019`
+Laura Howes. **Chemistry data should be FAIR, proponents say. But getting there will be a long road**, C&EN (2019) https://cen.acs.org/policy/publishing/Chemistry-data-should-FAIR-proponents/97/i35
+
+Sicco de Knecht. **So what about editor compensation?**, ScienceGuide (2019) https://www.scienceguide.nl/2019/04/so-what-about-editor-compensation/
+
+`2018`
+**“Als je geen open access wilt, zeg dat dan gewoon hardop!”** ScienceGuide (2018) https://www.scienceguide.nl/2018/12/als-je-geen-open-access-wilt-zeg-dat-dan-gewoon-hardop/
+
+### News
+
+`2021`
+Maurice Timmermans, **Twee UM’ers ontvangen NWO-beurzen voor open science**, Observant (2021) https://www.observantonline.nl/Home/Artikelen/id/57779/twee-um-ers-ontvangen-nwo-beurzen-voor%C2%A0open-science
+
+`2020`
+Cleo Freriks, **UM researchers: corona is given high priority**, Observant (2020) https://www.observantonline.nl/english/Home/Articles/id/43066
+
+`2019`
+Andrea Widener. **Societies and scientists react to open access Plan S**, C&EN (2019) https://cen.acs.org/policy/publishing/Societies-scientists-react-open-access/97/web/2019/02
+
+Sicco de Knecht. **Germans to close “transformative” deal with SpringerNature**, ScienceGuide (2019) https://www.scienceguide.nl/2019/08/germans-to-close-transformative-deal-with-springernature/
+
+`2014`
+Wendy Degens, Cleo Freriks, Maurice Timmermans, **“I see bright researchers leaving the university”**, Observant (2014) https://www.observantonline.nl/english/Home-old/Articles/articleType/ArticleView/articleId/2111/I-see-bright-researchers-leaving-the-university
+
+### Interational Newsletters
+
+`2022`
+**ELIXIR launches new Toxicology Community**, ELIXIR Europe News (2022) https://elixir-europe.org/news/new-toxicology-community
+
+`2021`
+**Niets afschaffen, wel verbreden**, NWO Magazine (2021) https://www.nwo.nl/niets-afschaffen-wel-verbreden
+
 ## Memberships
 
 `1993-???,???-present`
