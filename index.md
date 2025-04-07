@@ -63,7 +63,11 @@ Publication list also available [in Google Scholar](https://scholar.google.fi/ci
 
 ### Journal articles
 
-Scientific, peer-reviewed articles in international journals.
+Scientific publications in international journals with a referee system.
+
+### Books and chapters
+
+Scientific publication as a book or as a contribution to a book including proceedings.
 
 ### Books
 
@@ -72,9 +76,10 @@ Scientific, peer-reviewed articles in international journals.
 J. Wikberg, M. Eklund, **E. Willighagen**, O. Spjuth, M. Lapins, O. Engkvist,
 J. Alvarsson, Introduction to Pharmaceutical Bioinformatics. Oakleaf Academic, Stockholm, Sweden. ISBN: 9-789-19794030-6, 2010.
 
-### Other
+### Conference proceedings
 
-#### Book chapters
+
+### Book chapters
 
 D.N. Slenter, M. Kutmon, **E.L. Willighagen**, WikiPathways: Integrating
 Pathway Knowledge with Clinical Data, in: N. Blau, C. Dionisi Vici, C.R.
@@ -181,6 +186,80 @@ Problem-based Learning (PBL) Tutor, Biomedical Sciences. Maastricht University
 
 ## Awards and honors
 
+## Grants and funding
+
+### Research grants
+
+UM = Maastricht University
+
+`2024-present`
+**INTOXICOM Implementation Study**. <!-- Coordinator: UM. Other: . -->
+ELIXIR Europe. Sum: 59 k€, Person: ?? k€
+
+``2023-present`
+**TGX-MAP: Transcriptomics in Risk Assessment**. <!-- Coordintor: Leiden University. Other: UM, a few more. -->
+EFSA. Sum: ?? k€, UM: ?? k€
+
+`2024-2025`
+**Chemistry Development Kit 2024**. <!-- Coordintor: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO). Sum: 50 k€, Person: 25 k€. 
+
+`2022-2023`
+**Lipid Pathway Curation**. <!-- Coordintor: Cardiff University. Other: UM -->
+ELIXIR Europe. Sum: ?? k€, UM: 5.7 k€.
+
+`2022-2023`
+**BridgeDb**, <!-- Coordintor: UM. -->
+Dutch Research Council (NWO), 203.001.121. Sum: 50 k€, UM: 50 k€.
+
+`2020-2024`
+**SbD4nano**, <!-- Coordintor: ITENE. Other: UM -->
+European Commission H2020. Sum: ?? k€, UM: 344 k€.
+
+`2019-2021`
+**Scholia**, <!-- Coordintor: ITENE. Other: UM -->
+Alfred P. Sloan Foundation. Sum: ?? k€, UM: 75 k€.
+
+`2019-2023`
+**RiskGONE**, <!-- Coordintor: NILU. Other: UM -->
+European Commission H2020. Sum: ?? k€, UM: 221 k€.
+
+`2019-2023`
+**NanoSolveIT**, <!-- Coordintor: NovaMechanics. Other: UM -->
+European Commission H2020. Sum: ?? k€, UM: 406 k€.
+
+`2018-2022`
+**NanoCommons**, <!-- Coordintor: UoB. Other: UM -->
+European Commission H2020. Sum: ?? k€, UM: 299 k€.
+
+`2014-2025`
+**NanoCommons**, <!-- Coordintor: EC. Other: UM -->
+European Commission FP7. Sum: ?? k€, UM: 840 k€.
+
+<!--
+\CVItem{2015, \textit{AMBIT}, Cefic Long-Range Research Intitiative}{
+Collaborator, work on Chemistry Development Kit, EEM9.3-IC, 16 k€.
+}
+
+\CVItem{2021, \textit{VHP4Safety}, Dutch NWO}{
+co-PI, NWA 1292.19.272, 3 postdocs + 1 PhD.
+}
+
+\CVItem{2020, \textit{EpiLipidNET}, COST Action}{
+co-PI.
+}
+\CVItem{2011, \textit{General research support}, KI Fonden}{
+PI, personal grant, $\sim$2900 euro (24 kSEK).
+}
+
+\CVItem{2000 - 2019, Various small project and travel grants}{
+Four travel grants (Specs\&BioSpecs, eCheminfo Bursary Award,
+and twice Wallenberg Fonden), total $\sim$5025 euro.
+Four times Google Summer of Code (3x \$ 5000, 1x \$ 6600) and twice a Dutch "Programmeerzomer"
+grant (4 kEuro each). Various projects with ELIXIR (Metabolomics Implementation Study,
+Bio.tools project; $\sim$5 kEuro).
+}
+-->
+
 ## Talks
 
 ### Keynotes
@@ -215,6 +294,13 @@ Problem-based Learning (PBL) Tutor, Biomedical Sciences. Maastricht University
 
 `2007`
 **GDCh-Wissenschaftsforum Chemie 2007**. Ulm, Germany
+
+## Memberships
+
+`1993-???,???-present`
+**KNCV**
+
+
 
 <!-- ### Footer
 
