@@ -69,23 +69,36 @@ University*, Cologne, Germany.
 
 Scientific publications in international journals with a referee system.
 
+`2007`
+**Willighagen, E. L.**, O’Boyle, N. M., Gopalakrishnan, H., Jiao, D., Guha, R., Steinbeck, C., & Wild, D. J. (2007). Userscripts for the Life Sciences. *BMC Bioinformatics*, *8*(1). doi:[10.1186/1471-2105-8-487](https://doi.org/10.1186/1471-2105-8-487)
+
+Kuhn, S., Helmus, T., Lancashire, R. J., Murray-Rust, P., Rzepa, H. S., Steinbeck, C., & **Willighagen, E. L.** (2007). Chemical Markup, XML, and the World Wide Web. 7. CMLSpect, an XML Vocabulary for Spectral Data. *Journal of Chemical Information and Modeling*, *47*(6), 2015–2034. doi:[10.1021/ci600531a](https://doi.org/10.1021/ci600531a)
+
+Spjuth, O., Helmus, T., **Willighagen, E. L.**, Kuhn, S., Eklund, M., Wagener, J., Murray-Rust, P., Steinbeck, C., & Wikberg, J. E. (2007). Bioclipse: an open source workbench for chemo- and bioinformatics. *BMC Bioinformatics*, *8*(1). doi:[10.1186/1471-2105-8-59](https://doi.org/10.1186/1471-2105-8-59)
+
+`2006`
+Guha, R., Howard, M. T., Hutchison, G. R., Murray-Rust, P., Rzepa, H., Steinbeck, C., Wegner, J., & **Willighagen, E. L.** (2006). The Blue Obelisk—Interoperability in Chemical Informatics. *Journal of Chemical Information and Modeling*, *46*(3), 991–998. doi:[10.1021/ci050400b](https://doi.org/10.1021/ci050400b)
+
 Steinbeck, C., Hoppe, C., Kuhn, S., Floris, M., Guha, R., & **Willighagen, E.** (2006). Recent Developments of the Chemistry Development Kit (CDK) - An Open-Source Java Library for Chemo- and Bioinformatics. *Current Pharmaceutical Design*, *12*(17), 2111–2120. doi:[10.2174/138161206777585274](https://doi.org/10.2174/138161206777585274)
 
-**Willighagen, E. L.**, Denissen, H. M. G. W., Wehrens, R., & Buydens, L. M. C. (2006). On the Use of 1H and 13C 1D NMR Spectra as QSPR Descriptors. *Journal of Chemical Information and Modeling*, *46*(2), 487–494. https://doi.org/10.1021/ci050282s
+**Willighagen, E. L.**, Denissen, H. M. G. W., Wehrens, R., & Buydens, L. M. C. (2006). On the Use of 1H and 13C 1D NMR Spectra as QSPR Descriptors. *Journal of Chemical Information and Modeling*, *46*(2), 487–494. doi:[10.1021/ci050282s](https://doi.org/10.1021/ci050282s)
 
-**Willighagen, E. L.**, Wehrens, R., & Buydens, L. M. C. (2006). Molecular Chemometrics. *Critical Reviews in Analytical Chemistry*, *36*(3–4), 189–198. https://doi.org/10.1080/10408340600969601
+**Willighagen, E. L.**, Wehrens, R., & Buydens, L. M. C. (2006). Molecular Chemometrics. *Critical Reviews in Analytical Chemistry*, *36*(3–4), 189–198. doi:[10.1080/10408340600969601](https://doi.org/10.1080/10408340600969601)
 
-**Willighagen, E. L.**, Wehrens, R., Verwer, P., de Gelder, R., & Buydens, L. M. C. (2005). Method for the computational comparison of crystal structures. *Acta Crystallographica Section B Structural Science*, *61*(1), 29–36. https://doi.org/10.1107/s0108768104028344
+`2005`
+**Willighagen, E. L.**, Wehrens, R., Verwer, P., de Gelder, R., & Buydens, L. M. C. (2005). Method for the computational comparison of crystal structures. *Acta Crystallographica Section B Structural Science*, *61*(1), 29–36. doi:[10.1107/s0108768104028344](https://doi.org/10.1107/s0108768104028344)
 
-Buijnsters, P. J. J. A., García Rodríguez, C. L., **Willighagen, E. L.**, Sommerdijk, N. A. J. M., Kremer, A., Camilleri, P., Feiters, M. C., Nolte, R. J. M., & Zwanenburg, B. (2002). Cationic Gemini Surfactants Based on Tartaric Acid: Synthesis, Aggregation, Monolayer Behaviour, and Interaction with DNA. *European Journal of Organic Chemistry*, *2002*(8), 1397–1406. https://doi.org/10.1002/1099-0690(200204)2002:8<1397::aid-ejoc1397>3.0.co;2-6
+`2004`
+Murray-Rust, P., Rzepa, H. S., Williamson, M. J., & **Willighagen, E. L.** (2004). Chemical Markup, XML, and the World Wide Web. 5. Applications of Chemical Metadata in RSS Aggregators. *Journal of Chemical Information and Computer Sciences*, *44*(2), 462–469. doi:[10.1021/ci034244p](https://doi.org/10.1021/ci034244p)
 
-Krause, S., **Willighagen, E.**, & Steinbeck, C. (2000). JChemPaint - Using the Collaborative Forces of the Internet to Develop a Free Editor for 2D Chemical Structures. *Molecules*, *5*(1), 93–98. https://doi.org/10.3390/50100093
+`2003`
+Steinbeck, C., Han, Y., Kuhn, S., Horlacher, O., Luttmann, E., & **Willighagen, E**. (2003). The Chemistry Development Kit (CDK):  An Open-Source Java Library for Chemo- and Bioinformatics. *Journal of Chemical Information and Computer Sciences*, *43*(2), 493–500. doi:[10.1021/ci025584y](https://doi.org/10.1021/ci025584y)
 
-Murray-Rust, P., Rzepa, H. S., Williamson, M. J., & **Willighagen, E. L.** (2004). Chemical Markup, XML, and the World Wide Web. 5. Applications of Chemical Metadata in RSS Aggregators. *Journal of Chemical Information and Computer Sciences*, *44*(2), 462–469. https://doi.org/10.1021/ci034244p
+`2002`
+Buijnsters, P. J. J. A., García Rodríguez, C. L., **Willighagen, E. L.**, Sommerdijk, N. A. J. M., Kremer, A., Camilleri, P., Feiters, M. C., Nolte, R. J. M., & Zwanenburg, B. (2002). Cationic Gemini Surfactants Based on Tartaric Acid: Synthesis, Aggregation, Monolayer Behaviour, and Interaction with DNA. *European Journal of Organic Chemistry*, *2002*(8), 1397–1406. doi:[10.1002/1099-0690(200204)2002:8<1397::aid-ejoc1397>3.0.co;2-6](https://doi.org/10.1002/1099-0690(200204)2002:8<1397::aid-ejoc1397>3.0.co;2-6)
 
-Steinbeck, C., Han, Y., Kuhn, S., Horlacher, O., Luttmann, E., & **Willighagen, E**. (2003). The Chemistry Development Kit (CDK):  An Open-Source Java Library for Chemo- and Bioinformatics. *Journal of Chemical Information and Computer Sciences*, *43*(2), 493–500. https://doi.org/10.1021/ci025584y
-
-
+`2000`
+Krause, S., **Willighagen, E.**, & Steinbeck, C. (2000). JChemPaint - Using the Collaborative Forces of the Internet to Develop a Free Editor for 2D Chemical Structures. *Molecules*, *5*(1), 93–98. doi:[10.3390/50100093](https://doi.org/10.3390/50100093)
 
 ### Books and chapters
 
