@@ -308,12 +308,17 @@ Egon Willighagen. **Universiteiten mogen hun rol in de samenleving niet uitbeste
 ### Interviews
 
 `2019`
-Laura Howes. **Chemistry data should be FAIR, proponents say. But getting there will be a long road**, C&EN (2019) https://cen.acs.org/policy/publishing/Chemistry-data-should-FAIR-proponents/97/i35
+Laura Howes. **Chemistry data should be FAIR, proponents say. But getting there will be a long road**, C&EN (2019) [https://cen.acs.org/policy/publishing/Chemistry-data-should-FAIR-proponents/97/i35](https://cen.acs.org/policy/publishing/Chemistry-data-should-FAIR-proponents/97/i35)
 
-Sicco de Knecht. **So what about editor compensation?**, ScienceGuide (2019) https://www.scienceguide.nl/2019/04/so-what-about-editor-compensation/
+Sicco de Knecht. **So what about editor compensation?**, ScienceGuide (2019) [https://www.scienceguide.nl/2019/04/so-what-about-editor-compensation/](https://www.scienceguide.nl/2019/04/so-what-about-editor-compensation/)
 
 `2018`
-**“Als je geen open access wilt, zeg dat dan gewoon hardop!”** ScienceGuide (2018) https://www.scienceguide.nl/2018/12/als-je-geen-open-access-wilt-zeg-dat-dan-gewoon-hardop/
+**“Als je geen open access wilt, zeg dat dan gewoon hardop!”** ScienceGuide (2018) [https://www.scienceguide.nl/2018/12/als-je-geen-open-access-wilt-zeg-dat-dan-gewoon-hardop/](https://www.scienceguide.nl/2018/12/als-je-geen-open-access-wilt-zeg-dat-dan-gewoon-hardop/)
+
+Arjen Dijkgraag. **Open accessstress**. C2W (2018), [https://www.sciencelink.net/nieuws-and-verdieping/open-accessstress/8374.article](https://www.sciencelink.net/nieuws-and-verdieping/open-accessstress/8374.article)
+
+`2017`
+Puck Moll. **Focus op software**, C2W (2017), [https://www.sciencelink.net/nieuws-and-verdieping/focus-op-software/5919.article](https://www.sciencelink.net/nieuws-and-verdieping/focus-op-software/5919.article)
 
 ### News
 
@@ -327,6 +332,9 @@ Cleo Freriks, **UM researchers: corona is given high priority**, Observant (2020
 Andrea Widener. **Societies and scientists react to open access Plan S**, C&EN (2019) https://cen.acs.org/policy/publishing/Societies-scientists-react-open-access/97/web/2019/02
 
 Sicco de Knecht. **Germans to close “transformative” deal with SpringerNature**, ScienceGuide (2019) https://www.scienceguide.nl/2019/08/germans-to-close-transformative-deal-with-springernature/
+
+`2018`
+Puck Moll. **Nieuwe generatie**, C2W (2017), https://www.sciencelink.net/nieuws-and-verdieping/nieuwe-generatie/6551.article
 
 `2014`
 Wendy Degens, Cleo Freriks, Maurice Timmermans, **“I see bright researchers leaving the university”**, Observant (2014) https://www.observantonline.nl/english/Home-old/Articles/articleType/ArticleView/articleId/2111/I-see-bright-researchers-leaving-the-university
