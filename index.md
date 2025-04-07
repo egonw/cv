@@ -69,7 +69,21 @@ University*, Cologne, Germany.
 
 Scientific publications in international journals with a referee system.
 
+`2010`
+Kuhn, T., **Willighagen, E. L.**, Zielesny, A., & Steinbeck, C. (2010). CDK-Taverna: an open workflow environment for cheminformatics. *BMC Bioinformatics*, *11*(1). doi:[10.1186/1471-2105-11-159](https://doi.org/10.1186/1471-2105-11-159)
+
+Spjuth, O., **Willighagen, E. L.**, Guha, R., Eklund, M., & Wikberg, J. E. (2010). Towards interoperable and reproducible QSAR analyses: Exchange of datasets. *Journal of Cheminformatics*, *2*(1). doi:[10.1186/1758-2946-2-5](https://doi.org/10.1186/1758-2946-2-5)
+
+Wohlgemuth, G., Haldiya, P. K., **Willighagen, E.**, Kind, T., & Fiehn, O. (2010). The Chemical Translation Service—a web-based tool to improve standardization of metabolomic reports. *Bioinformatics*, *26*(20), 2647–2648. doi:[bioinformatics/btq476](https://doi.org/10.1093/bioinformatics/btq476)
+
+`2009`
+Spjuth, O., Alvarsson, J., Berg, A., Eklund, M., Kuhn, S., Mäsak, C., Torrance, G., Wagener, J., **Willighagen, E. L.**, Steinbeck, C., & Wikberg, J. E. (2009). Bioclipse 2: A scriptable integration platform for the life sciences. *BMC Bioinformatics*, *10*(1). doi:[10.1186/1471-2105-10-397]https://doi.org/10.1186/1471-2105-10-397)
+
+Wagener, J., Spjuth, O., **Willighagen, E. L.**, & Wikberg, J. E. (2009). XMPP for cloud computing in bioinformatics supporting discovery and invocation of asynchronous web services. *BMC Bioinformatics*, *10*(1). doi:[10.1186/1471-2105-10-279](https://doi.org/10.1186/1471-2105-10-279)
+
 `2007`
+**Willighagen, E. L.**, Wehrens, R., Melssen, W., de Gelder, R., & Buydens, L. M. C. (2007). Supervised Self-Organizing Maps in Crystal Property and Structure Prediction. *Crystal Growth &amp; Design*, *7*(9), 1738–1745. doi:[10.1021/cg060872y](https://doi.org/10.1021/cg060872y)
+
 **Willighagen, E. L.**, O’Boyle, N. M., Gopalakrishnan, H., Jiao, D., Guha, R., Steinbeck, C., & Wild, D. J. (2007). Userscripts for the Life Sciences. *BMC Bioinformatics*, *8*(1). doi:[10.1186/1471-2105-8-487](https://doi.org/10.1186/1471-2105-8-487)
 
 Kuhn, S., Helmus, T., Lancashire, R. J., Murray-Rust, P., Rzepa, H. S., Steinbeck, C., & **Willighagen, E. L.** (2007). Chemical Markup, XML, and the World Wide Web. 7. CMLSpect, an XML Vocabulary for Spectral Data. *Journal of Chemical Information and Modeling*, *47*(6), 2015–2034. doi:[10.1021/ci600531a](https://doi.org/10.1021/ci600531a)
@@ -96,6 +110,9 @@ Steinbeck, C., Han, Y., Kuhn, S., Horlacher, O., Luttmann, E., & **Willighagen, 
 
 `2002`
 Buijnsters, P. J. J. A., García Rodríguez, C. L., **Willighagen, E. L.**, Sommerdijk, N. A. J. M., Kremer, A., Camilleri, P., Feiters, M. C., Nolte, R. J. M., & Zwanenburg, B. (2002). Cationic Gemini Surfactants Based on Tartaric Acid: Synthesis, Aggregation, Monolayer Behaviour, and Interaction with DNA. *European Journal of Organic Chemistry*, *2002*(8), 1397–1406. doi:[10.1002/1099-0690(200204)2002:8<1397::aid-ejoc1397>3.0.co;2-6](https://doi.org/10.1002/1099-0690(200204)2002:8<1397::aid-ejoc1397>3.0.co;2-6)
+
+`2001`
+**Willighagen, E.**, (2001). Processing CML Conventions in Java, *Internet Journal of Chemistry*, *4*.
 
 `2000`
 Krause, S., **Willighagen, E.**, & Steinbeck, C. (2000). JChemPaint - Using the Collaborative Forces of the Internet to Develop a Free Editor for 2D Chemical Structures. *Molecules*, *5*(1), 93–98. doi:[10.3390/50100093](https://doi.org/10.3390/50100093)
