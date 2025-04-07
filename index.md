@@ -67,44 +67,43 @@ University*, Cologne, Germany.
 
 ### Books
 
-**E. Willighagen**, Groovy Cheminformatics with the Chemistry Development Kit, Lulu.com, 2011 (now as free eBook).
+**E. Willighagen**, Groovy Cheminformatics with the Chemistry Development Kit, Lulu.com, 2011 (now as [free and open access eBook](https://cdk.github.io/cdkbook/)).
 
 J. Wikberg, M. Eklund, **E. Willighagen**, O. Spjuth, M. Lapins, O. Engkvist,
 J. Alvarsson, Introduction to Pharmaceutical Bioinformatics. Oakleaf Academic, Stockholm, Sweden. ISBN: 9-789-19794030-6, 2010.
 
 ### Book chapters
 
-D.N. Slenter, M. Kutmon, **E.L. Willighagen**, WikiPathways: Integrating Path-
-way Knowledge with Clinical Data, in: N. Blau, C. Dionisi Vici, C.R. Fer-
-reira, C. Vianey-Saban, C.D.M. van Karnebeek (Eds.), Physician’s Guide to
+D.N. Slenter, M. Kutmon, **E.L. Willighagen**, WikiPathways: Integrating
+Pathway Knowledge with Clinical Data, in: N. Blau, C. Dionisi Vici, C.R.
+Ferreira, C. Vianey-Saban, C.D.M. van Karnebeek (Eds.), Physician’s Guide to
 the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases,
 Springer International Publishing, UK, Ch. 73, 2022.
 
-A.J. Williams, S. Ekins, O. Spjuth, **E. Willighagen**, Acessing, Using, and Cre-
-ating Chemical Property Databases for Computational Toxicology Modeling,
-In: Computational Toxicology (Vol. 929), Springer Science+Business Me-
-dia, Ch. 10, 2012.
+A.J. Williams, S. Ekins, O. Spjuth, **E. Willighagen**, Acessing, Using, and
+Creating Chemical Property Databases for Computational Toxicology Modeling,
+In: Computational Toxicology (Vol. 929), Springer Science+Business Media, Ch. 10, 2012.
 
-**E. Willighagen**, R. Affentranger, R. Grafström1, B. Hardy, N. Jeliazkova,
+**E. Willighagen**, R. Affentranger, R. Grafström, B. Hardy, N. Jeliazkova,
 O. Spjuth, Interactive Predictive Toxicology with Bioclipse and OpenTox, In:
-Open Source Software in Life Science Research: Practical Solutions to Com-
-mon Challenges in the Pharmaceutical Industry and Beyond, Ed. L. Har-
-land, M. Forster, Biohealthcare Publishing Ltd, Oxford, UK, Ch. 2, ISBN:
+Open Source Software in Life Science Research: Practical Solutions to
+Common Challenges in the Pharmaceutical Industry and Beyond, Ed. L. 
+Harland, M. Forster, Biohealthcare Publishing Ltd, Oxford, UK, Ch. 2, ISBN:
 1-907-568972, 2012.
 
 B. Hardy, A. Affentranger, E. Benfenati, N. Jeliazkova, V. Jeliazkov, G. My-
 att, J. Wiseman, G. Stacey, R. Grafström, **E. Willighagen**, C. Helma, ToxBank:
-Supporting Integrated Data Analysis and Servicing of Alternative Testing Meth-
-ods in Toxicology, In: Towards the Replacement of in vivo Repeated Dose
+Supporting Integrated Data Analysis and Servicing of Alternative Testing
+Methods in Toxicology, In: Towards the Replacement of in vivo Repeated Dose
 Systemic Toxicity Testing, SEURAT-1, 2011.
 
-R. Guha, O. Spjuth, **E. Willighagen**, Collaborative Cheminformatics Appli-
-cations, In Collaborative Computational Technologies for Biomedical Re-
-search, Ed. S. Ekins, M.A.Z. Hupcey, and A.J. Williams, John Wiley & Sons,
+R. Guha, O. Spjuth, **E. Willighagen**, Collaborative Cheminformatics Applications,
+In Collaborative Computational Technologies for Biomedical Research, Ed. S. Ekins,
+M.A.Z. Hupcey, and A.J. Williams, John Wiley & Sons,
 Inc., Hoboken, USA, ISBN: 9-780-470-63803-3, 2011.
 
-**E. Willighagen**, 3D Molecular Representations, In Handbook of Cheminfor-
-matics Algorithms, Ed. Faulon, J-P. and Bender, A., CRC Press, New York,
+**E. Willighagen**, 3D Molecular Representations, In Handbook of Cheminformatics
+Algorithms, Ed. Faulon, J-P. and Bender, A., CRC Press, New York,
 US, Ch. 3. ISBN: 1-420-08292-2, 2010.
 
 J-C. Bradley, R. Guha, A. Lang, P. Lindenbaum, C. Neylon, A. Williams,
