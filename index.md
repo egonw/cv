@@ -69,6 +69,24 @@ University*, Cologne, Germany.
 
 Scientific publications in international journals with a referee system.
 
+Steinbeck, C., Hoppe, C., Kuhn, S., Floris, M., Guha, R., & **Willighagen, E.** (2006). Recent Developments of the Chemistry Development Kit (CDK) - An Open-Source Java Library for Chemo- and Bioinformatics. *Current Pharmaceutical Design*, *12*(17), 2111–2120. doi:[10.2174/138161206777585274](https://doi.org/10.2174/138161206777585274)
+
+**Willighagen, E. L.**, Denissen, H. M. G. W., Wehrens, R., & Buydens, L. M. C. (2006). On the Use of 1H and 13C 1D NMR Spectra as QSPR Descriptors. *Journal of Chemical Information and Modeling*, *46*(2), 487–494. https://doi.org/10.1021/ci050282s
+
+**Willighagen, E. L.**, Wehrens, R., & Buydens, L. M. C. (2006). Molecular Chemometrics. *Critical Reviews in Analytical Chemistry*, *36*(3–4), 189–198. https://doi.org/10.1080/10408340600969601
+
+**Willighagen, E. L.**, Wehrens, R., Verwer, P., de Gelder, R., & Buydens, L. M. C. (2005). Method for the computational comparison of crystal structures. *Acta Crystallographica Section B Structural Science*, *61*(1), 29–36. https://doi.org/10.1107/s0108768104028344
+
+Buijnsters, P. J. J. A., García Rodríguez, C. L., **Willighagen, E. L.**, Sommerdijk, N. A. J. M., Kremer, A., Camilleri, P., Feiters, M. C., Nolte, R. J. M., & Zwanenburg, B. (2002). Cationic Gemini Surfactants Based on Tartaric Acid: Synthesis, Aggregation, Monolayer Behaviour, and Interaction with DNA. *European Journal of Organic Chemistry*, *2002*(8), 1397–1406. https://doi.org/10.1002/1099-0690(200204)2002:8<1397::aid-ejoc1397>3.0.co;2-6
+
+Krause, S., **Willighagen, E.**, & Steinbeck, C. (2000). JChemPaint - Using the Collaborative Forces of the Internet to Develop a Free Editor for 2D Chemical Structures. *Molecules*, *5*(1), 93–98. https://doi.org/10.3390/50100093
+
+Murray-Rust, P., Rzepa, H. S., Williamson, M. J., & **Willighagen, E. L.** (2004). Chemical Markup, XML, and the World Wide Web. 5. Applications of Chemical Metadata in RSS Aggregators. *Journal of Chemical Information and Computer Sciences*, *44*(2), 462–469. https://doi.org/10.1021/ci034244p
+
+Steinbeck, C., Han, Y., Kuhn, S., Horlacher, O., Luttmann, E., & **Willighagen, E**. (2003). The Chemistry Development Kit (CDK):  An Open-Source Java Library for Chemo- and Bioinformatics. *Journal of Chemical Information and Computer Sciences*, *43*(2), 493–500. https://doi.org/10.1021/ci025584y
+
+
+
 ### Books and chapters
 
 Scientific publication as a book or as a contribution to a book including proceedings.
