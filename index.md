@@ -188,15 +188,15 @@ Problem-based Learning (PBL) Tutor, Biomedical Sciences. Maastricht University
 
 ## Grants and funding
 
-### Research grants
-
 UM = Maastricht University
+
+### Research grants
 
 `2024-present`
 **INTOXICOM Implementation Study**. <!-- Coordinator: UM. Other: . -->
 ELIXIR Europe. Sum: 59 k€, Person: ?? k€
 
-``2023-present`
+`2023-present`
 **TGX-MAP: Transcriptomics in Risk Assessment**. <!-- Coordintor: Leiden University. Other: UM, a few more. -->
 EFSA. Sum: ?? k€, UM: ?? k€
 
@@ -208,32 +208,33 @@ EFSA. Sum: ?? k€, UM: ?? k€
 ELIXIR Europe. Sum: ?? k€, UM: 5.7 k€.
 
 `2022-2023`
-**BridgeDb**, <!-- Coordintor: UM. -->
-Dutch Research Council (NWO), 203.001.121. Sum: 50 k€, UM: 50 k€.
+**BridgeDb and Wikidata: a powerful combination generating interoperable open research
+**, <!-- Coordintor: UM. -->
+Dutch Research Council (NWO), [203.001.121](https://www.nwo.nl/en/projects/203001121). Sum: 50 k€, UM: 50 k€.
 
 `2020-2024`
-**SbD4nano**, <!-- Coordintor: ITENE. Other: UM -->
-European Commission H2020. Sum: ?? k€, UM: 344 k€.
+**Computing infrastructure for the definition, performance testing and implementation of safe-by-design approaches in nanotechnology supply chains (SbD4nano)**, <!-- Coordintor: ITENE. Other: UM -->
+European Commission H2020. [862195](https://cordis.europa.eu/project/id/862195). Sum: 5.98 M€, UM: 343 k€.
 
 `2019-2021`
 **Scholia**, <!-- Coordintor: ITENE. Other: UM -->
 Alfred P. Sloan Foundation. Sum: ?? k€, UM: 75 k€.
 
 `2019-2023`
-**RiskGONE**, <!-- Coordintor: NILU. Other: UM -->
-European Commission H2020. Sum: ?? k€, UM: 221 k€.
+**Risk Governance of Nanotechnology (RiskGONE)**, <!-- Coordintor: NILU. Other: UM -->
+European Commission H2020. [814425](https://cordis.europa.eu/project/id/814425). Sum: 5.00 M€, UM: 221 k€.
 
 `2019-2023`
-**NanoSolveIT**, <!-- Coordintor: NovaMechanics. Other: UM -->
-European Commission H2020. Sum: ?? k€, UM: 406 k€.
+**Innovative Nanoinformatics models and tools: towards a Solid, verified and Integrated Approach to Predictive (eco)Toxicology (NanoSolveIT)**, <!-- Coordintor: NovaMechanics. Other: UM -->
+European Commission H2020. [814572](https://cordis.europa.eu/project/id/814572). Sum: 7.49 M€, UM: 407 k€.
 
 `2018-2022`
-**NanoCommons**, <!-- Coordintor: UoB. Other: UM -->
-European Commission H2020. Sum: ?? k€, UM: 299 k€.
+**The European Nanotechnology Community Informatics Platform: Bridging data and disciplinary gaps for industry and regulators (NanoCommons)**, <!-- Coordintor: UoB. Other: UM -->
+European Commission H2020. [731032](https://cordis.europa.eu/project/id/731032). Sum: 5.59 M€, UM: 291 k€.
 
-`2014-2025`
-**NanoCommons**, <!-- Coordintor: EC. Other: UM -->
-European Commission FP7. Sum: ?? k€, UM: 840 k€.
+`2014-2017`
+**eNanoMapper - A Database and Ontology Framework for Nanomaterials Design and Safety Assessment**, <!-- Coordintor: EC. Other: UM -->
+European Commission FP7. [604134](https://cordis.europa.eu/project/id/604134). Sum: 4.98 M€, UM: 843 k€.
 
 <!--
 \CVItem{2015, \textit{AMBIT}, Cefic Long-Range Research Intitiative}{
