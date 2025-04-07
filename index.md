@@ -78,6 +78,55 @@ J. Alvarsson, Introduction to Pharmaceutical Bioinformatics. Oakleaf Academic, S
 
 ### Conference proceedings
 
+T. Kuhn, **E. Willighagen**, C. Evelo, N. Queralt-Rosinach, E. Centeno, L.I. Furlong
+LI. *Reliable Granular References to Changing Linked Data*. In: d’Amato C, Fernandez
+M, Tamma V, Lecue F, Cudré-Mauroux P, Sequeda J, et al., editors. The Semantic
+Web – ISWC 2017. Cham: Springer International Publishing; 2017. p.
+436–51.
+
+C. Batchelor, C. Brenninkmeijer, C. Chichester, M. Davies, D. Digles, I. Dunlop,
+C. Evelo, A. Gaulton, C. Goble, A. Gray, P. Groth, L. Harland, K. Karapetyan, A.
+Loizou, J. Overington, S. Pettifer, J. Steele, R. Stevens, V. Tkachenko, A. Waag-
+meester, A. Williams, **E. Willighagen**, *Scientific lenses to support multiple views
+over linked chemistry data*. In: Mika, P., Tudorache, T., Bernstein, A., Welty, C.,
+Knoblock, C., Vrandečić, D., Groth, P., Noy, N., Janowicz, K., Goble, C. (Eds.), The
+Semantic Web – ISWC 2014. Vol. 8796 of Lecture Notes in Computer Science.
+Springer International Publishing, Cham, Ch. 7, pp. 98-113, 2014.
+
+N. Jeliazkova, P. Doganis, B. Fadeel, R. Grafstrom, J. Hastings, V. Jeliazkov, P.
+Kohonen, C. Munteanu, H. Sarimveis, B. Smeets, G. Tsiliki, D. Vorgrimmler,
+**E. Willighagen**, *The first eNanoMapper prototype: A substance database to support
+safe-by-design*. In: Bioinformatics and Biomedicine (BIBM), 2014 IEEE Interna-
+tional Conference on. IEEE, pp. 1-9. doi:[10.1109/bibm.2014.6999367](https://doi.org/10.1109/bibm.2014.6999367), 2014.
+
+J. Hastings, **E. Willighagen**, G. Owen, N. Jeliazkova, The eNanoMapper Consor-
+tium, C. Steinbeck, *eNanoMapper: Opportunities and challenges in using ontologies
+to enable data integration for nanomaterial risk assessment*. In: Proceedings of the
+17th Annual Bio-Ontologies Meeting. pp. 18-21, 2014.
+
+C. Goble, A. Gray, L. Harland, K. Karapetyan, A. Loizou, I. Mikhailov, Y. Rankka,
+S. Senger, V. Tkachenko, A. Williams, **E. Willighagen**, *Incorporating commercial
+and private data into an open linked data platform for drug discovery*. In: The
+Semantic Web – ISWC, Lecture Notes in Computer Science. Vol 8219. pp. 65-80.
+doi:[10.1007/978-3-642-41338-4_5](https://doi.org/10.1007/978-3-642-41338-4_5), 2013.
+
+C. Brenninkmeijer, C. Evelo, C. Goble, A. Gray, P. Groth, S. Pettifer, R. Stevens,
+A. William, **E. Willighagen**, *Scientific Lenses over Linked Data: An Approach to
+Support Task Specific Views of the Data*. A Vision. In: Linked Science 2012 - Tackling
+Big Data, 2012.
+
+**E.L. Willighagen**, J.E.S. Wikberg, *Linking Open Drug Data to Cheminformatics and
+Proteochemometrics*, CEUR Workshop Proceedings In SWAT4LS-2009 - Semantic
+Web Applications and Tools for Life Sciences, Vol. 559, 2010.
+
+Zhang, Y., Murray-Rust, P., Dove, M., Glen, R.C., Rzepa, H.S., Townsend, J.A.,
+Tyrell, S., Wakelin, J., **Willighagen, E.L.**, 2004. *Jumbo - an XML infrastructure for
+eScience*. In: Proceedings of UK e-Science All Hands Meeting 2004. Vol. 1. pp.
+930-933, 2004.
+
+Murray-Rust, P., Glen, R.C., Rzepa, H.S., Stewart, J.J.P., Townsend, J.A.,
+**Willighagen, E.L.**, Yong, Z., *A semantic grid for molecular science*.
+In: Proceedings of the 2003 UK e-Science All Hands Meeting, 2003.
 
 ### Book chapters
 
