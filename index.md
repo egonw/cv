@@ -81,46 +81,46 @@ J. Alvarsson, Introduction to Pharmaceutical Bioinformatics. Oakleaf Academic, S
 
 ### Book chapters
 
-D.N. Slenter, M. Kutmon, **E.L. Willighagen**, WikiPathways: Integrating
-Pathway Knowledge with Clinical Data, in: N. Blau, C. Dionisi Vici, C.R.
+D.N. Slenter, M. Kutmon, **E.L. Willighagen**, *WikiPathways: Integrating
+Pathway Knowledge with Clinical Data*, in: N. Blau, C. Dionisi Vici, C.R.
 Ferreira, C. Vianey-Saban, C.D.M. van Karnebeek (Eds.), Physician’s Guide to
 the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases,
 Springer International Publishing, UK, Ch. 73, 2022.
 
-A.J. Williams, S. Ekins, O. Spjuth, **E. Willighagen**, Acessing, Using, and
-Creating Chemical Property Databases for Computational Toxicology Modeling,
+A.J. Williams, S. Ekins, O. Spjuth, **E. Willighagen**, *Acessing, Using, and
+Creating Chemical Property Databases for Computational Toxicology Modeling*,
 In: Computational Toxicology (Vol. 929), Springer Science+Business Media, Ch. 10, 2012.
 
 **E. Willighagen**, R. Affentranger, R. Grafström, B. Hardy, N. Jeliazkova,
-O. Spjuth, Interactive Predictive Toxicology with Bioclipse and OpenTox, In:
+O. Spjuth, *Interactive Predictive Toxicology with Bioclipse and OpenTox*, In:
 Open Source Software in Life Science Research: Practical Solutions to
 Common Challenges in the Pharmaceutical Industry and Beyond, Ed. L. 
 Harland, M. Forster, Biohealthcare Publishing Ltd, Oxford, UK, Ch. 2, ISBN:
 1-907-568972, 2012.
 
 B. Hardy, A. Affentranger, E. Benfenati, N. Jeliazkova, V. Jeliazkov, G. My-
-att, J. Wiseman, G. Stacey, R. Grafström, **E. Willighagen**, C. Helma, ToxBank:
+att, J. Wiseman, G. Stacey, R. Grafström, **E. Willighagen**, C. Helma, *ToxBank:
 Supporting Integrated Data Analysis and Servicing of Alternative Testing
-Methods in Toxicology, In: Towards the Replacement of in vivo Repeated Dose
+Methods in Toxicology*, In: Towards the Replacement of in vivo Repeated Dose
 Systemic Toxicity Testing, SEURAT-1, 2011.
 
-R. Guha, O. Spjuth, **E. Willighagen**, Collaborative Cheminformatics Applications,
+R. Guha, O. Spjuth, **E. Willighagen**, *Collaborative Cheminformatics Applications*,
 In Collaborative Computational Technologies for Biomedical Research, Ed. S. Ekins,
 M.A.Z. Hupcey, and A.J. Williams, John Wiley & Sons,
 Inc., Hoboken, USA, ISBN: 9-780-470-63803-3, 2011.
 
-**E. Willighagen**, 3D Molecular Representations, In Handbook of Cheminformatics
-Algorithms, Ed. Faulon, J-P. and Bender, A., CRC Press, New York,
+**E. Willighagen**, *3D Molecular Representations, In Handbook of Cheminformatics
+Algorithms*, Ed. Faulon, J-P. and Bender, A., CRC Press, New York,
 US, Ch. 3. ISBN: 1-420-08292-2, 2010.
 
 J-C. Bradley, R. Guha, A. Lang, P. Lindenbaum, C. Neylon, A. Williams,
-**E. Willighagen**, Beautifying Data in the Real World. In: Beautiful Data - The
+**E. Willighagen**, *Beautifying Data in the Real World*. In: Beautiful Data - The
 Stories Behind Elegant Data Solutions, O’Reilly Media, Inc., Sebastopol,
 US, Ch. 16, ISBN: 0-596-15711-8, 2009.
 
 ## Teaching experience
 
-### B-roles
+### C-roles
 
 `2013-present`
 Course coordinator, **PRA3006: Programming in the Life Sciences**. Maastricht University
@@ -134,6 +134,14 @@ Block coordinator, **BMS1004: Biomedical Approaches**. Development. Maastricht U
 `2012-2018`
 Track coordinator, **BMW2007: Bioinformatics and Systems Biology**. Maastricht University
 
+### B-roles
+
+`2016-2022`
+Block planning group member, **BBS1001: Building Blocks of Life**. Maastricht University
+
+`2015-2016`
+Block planning group member, **BMW1006: Experts Collaborate**. Maastricht University
+
 `2007`
 Teacher, **Homology Modelling**. CUBIC, Cologne University
 
@@ -141,12 +149,6 @@ Teacher, **Homology Modelling**. CUBIC, Cologne University
 
 `2016-present`
 **Mentor Year 1-3, Biomedical Sciences**. Maastricht University
-
-`2016-2022`
-Block planning group member, **BBS1001: Building Blocks of Life**. Maastricht University
-
-`2015-2016`
-Block planning group member, **BMW1006: Experts Collaborate**. Maastricht University
 
 `2015-2016`
 **Mentor Year 1, Biomedical Sciences**. Maastricht University
@@ -300,10 +302,10 @@ Bio.tools project; $\sim$5 kEuro).
 ### Opinions
 
 `2020`
-Caspar van Lissa c.s. **Overheid wees transparant in strijd tegen het coronavirus**. NRC (2020) https://www.nrc.nl/nieuws/2020/04/27/overheid-wees-transparant-in-strijd-tegen-het-coronavirus-a3997982
+Caspar van Lissa c.s. **Overheid wees transparant in strijd tegen het coronavirus**. NRC (2020) [https://www.nrc.nl/nieuws/2020/04/27/overheid-wees-transparant-in-strijd-tegen-het-coronavirus-a3997982](https://www.nrc.nl/nieuws/2020/04/27/overheid-wees-transparant-in-strijd-tegen-het-coronavirus-a3997982)
 
 `2019`
-Egon Willighagen. **Universiteiten mogen hun rol in de samenleving niet uitbesteden**. ScienceGuide (2019) https://www.scienceguide.nl/2019/11/universiteiten-mogen-hun-rol-in-de-samenleving-niet-uitbesteden/
+Egon Willighagen. **Universiteiten mogen hun rol in de samenleving niet uitbesteden**. ScienceGuide (2019) [https://www.scienceguide.nl/2019/11/universiteiten-mogen-hun-rol-in-de-samenleving-niet-uitbesteden/](https://www.scienceguide.nl/2019/11/universiteiten-mogen-hun-rol-in-de-samenleving-niet-uitbesteden/)
 
 ### Interviews
 
@@ -323,29 +325,29 @@ Puck Moll. **Focus op software**, C2W (2017), [https://www.sciencelink.net/nieuw
 ### News
 
 `2021`
-Maurice Timmermans, **Twee UM’ers ontvangen NWO-beurzen voor open science**, Observant (2021) https://www.observantonline.nl/Home/Artikelen/id/57779/twee-um-ers-ontvangen-nwo-beurzen-voor%C2%A0open-science
+Maurice Timmermans, **Twee UM’ers ontvangen NWO-beurzen voor open science**, Observant (2021) [https://www.observantonline.nl/Home/Artikelen/id/57779/twee-um-ers-ontvangen-nwo-beurzen-voor%C2%A0open-science](https://www.observantonline.nl/Home/Artikelen/id/57779/twee-um-ers-ontvangen-nwo-beurzen-voor%C2%A0open-science)
 
 `2020`
-Cleo Freriks, **UM researchers: corona is given high priority**, Observant (2020) https://www.observantonline.nl/english/Home/Articles/id/43066
+Cleo Freriks, **UM researchers: corona is given high priority**, Observant (2020) [https://www.observantonline.nl/english/Home/Articles/id/43066](https://www.observantonline.nl/english/Home/Articles/id/43066)
 
 `2019`
-Andrea Widener. **Societies and scientists react to open access Plan S**, C&EN (2019) https://cen.acs.org/policy/publishing/Societies-scientists-react-open-access/97/web/2019/02
+Andrea Widener. **Societies and scientists react to open access Plan S**, C&EN (2019) [https://cen.acs.org/policy/publishing/Societies-scientists-react-open-access/97/web/2019/02](https://cen.acs.org/policy/publishing/Societies-scientists-react-open-access/97/web/2019/02)
 
-Sicco de Knecht. **Germans to close “transformative” deal with SpringerNature**, ScienceGuide (2019) https://www.scienceguide.nl/2019/08/germans-to-close-transformative-deal-with-springernature/
+Sicco de Knecht. **Germans to close “transformative” deal with SpringerNature**, ScienceGuide (2019) [https://www.scienceguide.nl/2019/08/germans-to-close-transformative-deal-with-springernature/](https://www.scienceguide.nl/2019/08/germans-to-close-transformative-deal-with-springernature/)
 
 `2018`
-Puck Moll. **Nieuwe generatie**, C2W (2017), https://www.sciencelink.net/nieuws-and-verdieping/nieuwe-generatie/6551.article
+Puck Moll. **Nieuwe generatie**, C2W (2017), [https://www.sciencelink.net/nieuws-and-verdieping/nieuwe-generatie/6551.article](https://www.sciencelink.net/nieuws-and-verdieping/nieuwe-generatie/6551.article)
 
 `2014`
-Wendy Degens, Cleo Freriks, Maurice Timmermans, **“I see bright researchers leaving the university”**, Observant (2014) https://www.observantonline.nl/english/Home-old/Articles/articleType/ArticleView/articleId/2111/I-see-bright-researchers-leaving-the-university
+Wendy Degens, Cleo Freriks, Maurice Timmermans, **“I see bright researchers leaving the university”**, Observant (2014) [https://www.observantonline.nl/english/Home-old/Articles/articleType/ArticleView/articleId/2111/I-see-bright-researchers-leaving-the-university](https://www.observantonline.nl/english/Home-old/Articles/articleType/ArticleView/articleId/2111/I-see-bright-researchers-leaving-the-university)
 
 ### Interational Newsletters
 
 `2022`
-**ELIXIR launches new Toxicology Community**, ELIXIR Europe News (2022) https://elixir-europe.org/news/new-toxicology-community
+**ELIXIR launches new Toxicology Community**, ELIXIR Europe News (2022) [https://elixir-europe.org/news/new-toxicology-community](https://elixir-europe.org/news/new-toxicology-community)
 
 `2021`
-**Niets afschaffen, wel verbreden**, NWO Magazine (2021) https://www.nwo.nl/niets-afschaffen-wel-verbreden
+**Niets afschaffen, wel verbreden**, NWO Magazine (2021) [https://www.nwo.nl/niets-afschaffen-wel-verbreden](https://www.nwo.nl/niets-afschaffen-wel-verbreden)
 
 ## Memberships
 
