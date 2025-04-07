@@ -22,8 +22,8 @@ Assistant professor, Maastricht University.
 
 ## Education
 
-`2002-2006`
-**Ph.D., Chemistry**, *Raboud University*, Nijmegen, The Netherlands
+`2002-2008`
+**Ph.D., Chemistry**, Representation of Molecules and Molecular Systems in Data Analysis and Modeling, *Raboud University*, Nijmegen, The Netherlands. <i class="fa-solid fa-building-columns"></i> [isbn:9789090228068](https://hdl.handle.net/2066/72267)
 
 `1993-2001`
 **M.Sc., Chemistry**, *University of Nijmegen*, Nijmegen, The Netherlands
