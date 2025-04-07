@@ -31,7 +31,7 @@ Assistant professor, Maastricht University.
 ## Experience
 
 `2024-present`
-**Assistant Professor**, *Department of Translational Genomic, Maastricht University*, Maastricht, The Netherlands.
+**Assistant Professor**, *Department of Translational Genomics, Institute NUTRIM for Nutrition and Translational Research in Metabolism, Maastricht University*, Maastricht, The Netherlands.
 
 `2014-2024`
 **Assistant Professor**, *Department of Bioinformatics, Maastricht University*, Maastricht, The Netherlands.
