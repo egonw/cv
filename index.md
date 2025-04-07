@@ -61,9 +61,11 @@ University*, Cologne, Germany.
 
 ## Publications
 
-*Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ).
+Publication list also available [in Google Scholar](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ).
 
 ### Journal articles
+
+Scientific, peer-reviewed articles in international journals.
 
 ### Books
 
@@ -72,7 +74,9 @@ University*, Cologne, Germany.
 J. Wikberg, M. Eklund, **E. Willighagen**, O. Spjuth, M. Lapins, O. Engkvist,
 J. Alvarsson, Introduction to Pharmaceutical Bioinformatics. Oakleaf Academic, Stockholm, Sweden. ISBN: 9-789-19794030-6, 2010.
 
-### Book chapters
+### Other
+
+#### Book chapters
 
 D.N. Slenter, M. Kutmon, **E.L. Willighagen**, WikiPathways: Integrating
 Pathway Knowledge with Clinical Data, in: N. Blau, C. Dionisi Vici, C.R.
@@ -140,19 +144,35 @@ Mentor Year 1, Biomedical Sciences. Maastricht University
 `2007`
 Teacher, Homology Modelling. Course coordination and teacher. Cologne University
 
-## Ph.D. Thesis promotorship and supervision
+## Thesis promotorship and supervision
+
+### Ph.D. co-promotor
 
 `2017-2024`
-Denise Slenter, Maastricht University.
+Denise Slenter, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240624ds](https://doi.org/10.26481/dis.20240624ds)
 
 `2017-2024`
-Marvin Martens, Maastricht University.
+Marvin Martens, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240129mm](https://doi.org/10.26481/dis.20240129mm)
 
 `2019-2024`
-Andra Waagmeester, Maastricht University.
+Andra Waagmeester, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240116aw](https://doi.org/10.26481/dis.20240116aw)
 
 `2018-2023`
-Ryan Miller, Maastricht University.
+Ryan Miller, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20221206rm](https://doi.org/10.26481/dis.20221206rm)
+
+### Ph.D. supervision
+
+`2024-present`
+Sidra Adil, Maastricht University.
+
+`2022-present`
+Jente Houweling, Maastricht University.
+
+`2022-present`
+Javier Millán Acosta, Maastricht University.
+
+`2020-2025`
+Ammar Ammar, Maastricht University.
 
 ## Awards and honors
 
