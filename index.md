@@ -149,30 +149,30 @@ Teacher, Homology Modelling. Course coordination and teacher. Cologne University
 ### Ph.D. co-promotor
 
 `2017-2024`
-Denise Slenter, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240624ds](https://doi.org/10.26481/dis.20240624ds)
+**Denise Slenter**, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240624ds](https://doi.org/10.26481/dis.20240624ds)
 
 `2017-2024`
-Marvin Martens, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240129mm](https://doi.org/10.26481/dis.20240129mm)
+**Marvin Martens**, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240129mm](https://doi.org/10.26481/dis.20240129mm)
 
 `2019-2024`
-Andra Waagmeester, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240116aw](https://doi.org/10.26481/dis.20240116aw)
+**Andra Waagmeester**, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20240116aw](https://doi.org/10.26481/dis.20240116aw)
 
 `2018-2023`
-Ryan Miller, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20221206rm](https://doi.org/10.26481/dis.20221206rm)
+**Ryan Miller**, Maastricht University. [<i class="fa-solid fa-building-columns"></i> doi:10.26481/dis.20221206rm](https://doi.org/10.26481/dis.20221206rm)
 
 ### Ph.D. supervision
 
 `2024-present`
-Sidra Adil, Maastricht University.
+**Sidra Adil**, Maastricht University.
 
 `2022-present`
-Jente Houweling, Maastricht University.
+**Jente Houweling**, Maastricht University.
 
 `2022-present`
-Javier Millán Acosta, Maastricht University.
+**Javier Millán Acosta**, Maastricht University.
 
 `2020-2025`
-Ammar Ammar, Maastricht University.
+**Ammar Ammar**, Maastricht University.
 
 ## Awards and honors
 
