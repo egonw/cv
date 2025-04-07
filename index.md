@@ -140,6 +140,57 @@ Mentor Year 1, Biomedical Sciences. Maastricht University
 `2007`
 Teacher, Homology Modelling. Course coordination and teacher. Cologne University
 
+## Ph.D. Thesis promotorship and supervision
+
+`2017-2024`
+Denise Slenter, Maastricht University.
+
+`2017-2024`
+Marvin Martens, Maastricht University.
+
+`2019-2024`
+Andra Waagmeester, Maastricht University.
+
+`2018-2023`
+Ryan Miller, Maastricht University.
+
+## Awards and honors
+
+## Talks
+
+### Keynotes
+
+`2022`
+**OpenTox Virtual Conference 2022**. Online.
+
+`2015`
+**International Conference on Biomedical Ontology**. Lisbon, Portugal
+
+### Invited talks
+
+`2023`
+**University of Groningen**. *Open Science Community Groningen Summer Event*. Groningen, The Netherlands
+
+**OECD**. *OECD "FAIR research output for nanosafety" meeting*. Paris, France
+
+`2019`
+**Beilstein Open Science 2019**. Rüdesheim, Germany
+
+`2017`
+**AgreenSkills+ Annual Meeting**. Paris, France
+
+`2015`
+**System Biology in Nanosafety Research**. Stockholm, Sweden
+
+`2014`
+**Royal Society of Chemistry**. *What’s in a Name?*. London, UK
+
+`2009`
+**GDCh-Wissenschafts-forum Chemie 2009**. Frankfurt, Germany
+
+`2007`
+**GDCh-Wissenschaftsforum Chemie 2007**. Ulm, Germany
+
 <!-- ### Footer
 
 Last updated: April 2025 -->
