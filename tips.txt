@@ -3,3 +3,6 @@
 curl -vLH'Accept: application/json' https://orcid.org/0000-0001-7542-0286 > me.json
 cat me.json | jq '.' > me_formatted.json
 jq '."activities-summary".works.group[]."external-ids"."external-id"[] | select(."external-id-type"=="doi") | ."external-id-normalized".value' me_formatted.json
+
+
+nodejs journal-articles.js  | sed -e 's+https://doi.org/\(.*\)+doi:[\1](https://doi.org/\1)+'

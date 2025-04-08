@@ -69,7 +69,48 @@ University*, Cologne, Germany.
 
 Scientific publications in international journals with a referee system.
 
+`2024`
+Bernabé, C. H., Thielemans, L., Kaliyaperumal, R., Carta, C., Zhang, S., van Gelder, C. W. G., Benis, N., da Silva Santos, L. O. B., Cornet, R., dos Santos Vieira, B., Lalout, N., Henriques, I., Ballesteros, A. C., Burger, K., Kersloot, M. G., Ehrhart, F., van Enckevort, E., Evelo, C. T., Gray, A. J. G., …, **Willighagem E. L.**, Jansen, M., Mons, B., Roos, M., Jacobsen, A. (2024). Building Expertise on FAIR Through Evolving Bring Your Own Data (BYOD) Workshops: Describing the Data, Software, and Management-focused Approaches and Their Evolution. *Data Intelligence*, *6*(2), 429–456. doi:[10.1162/dint_a_00236](https://doi.org/10.1162/dint_a_00236)
+
+`2015`
+Bohler, A., Eijssen, L. M. T., van Iersel, M. P., Leemans, C., **Willighagen, E. L.**, Kutmon, M., Jaillard, M., & Evelo, C. T. (2015). Automatically visualise and analyse data on pathways using PathVisioRPC from any programming environment. *BMC Bioinformatics*, *16*(1). doi:[10.1186/s12859-015-0708-8](https://doi.org/10.1186/s12859-015-0708-8)
+
+Fu, G., Batchelor, C., Dumontier, M., Hastings, J., **Willighagen, E.**, & Bolton, E. (2015). PubChemRDF: towards the semantic annotation of PubChem compound and substance databases. *Journal of Cheminformatics*, *7*(1). doi:[10.1186/s13321-015-0084-4](https://doi.org/10.1186/s13321-015-0084-4)
+
+Hastings, J., Jeliazkova, N., Owen, G., Tsiliki, G., Munteanu, C. R., Steinbeck, C., & **Willighagen, E.** (2015). eNanoMapper: harnessing ontologies to enable data integration for nanomaterial risk assessment. *Journal of Biomedical Semantics*, *6*(1). doi:[10.1186/s13326-015-0005-5](https://doi.org/10.1186/s13326-015-0005-5)
+
+Jeliazkova, N., Chomenidis, C., Doganis, P., Fadeel, B., Grafström, R., Hardy, B., Hastings, J., Hegi, M., Jeliazkov, V., Kochev, N., Kohonen, P., Munteanu, C. R., Sarimveis, H., Smeets, B., Sopasakis, P., Tsiliki, G., Vorgrimmler, D., & **Willighagen, E.** (2015). The eNanoMapper database for nanomaterial safety information. *Beilstein Journal of Nanotechnology*, *6*, 1609–1634. doi:[10.3762/bjnano.6.165](https://doi.org/10.3762/bjnano.6.165)
+
+`2014`
+Grafström, R. C., Nymark, P., Hongisto, V., Spjuth, O., Ceder, R., **Willighagen, E.**, Hardy, B., Kaski, S., & Kohonen, P. (2015). Toward the Replacement of Animal Experiments through the Bioinformatics-driven Analysis of “Omics” Data from Human Cell Cultures. Alternatives to Laboratory Animals, 43(5), 325–332. doi:[10.1177/02611929150430050](https://doi.org/10.1177/02611929150430050)
+
+`2013`
+Spjuth, O., Berg, A., Adams, S., & **Willighagen, E. L.** (2013). Applications of the InChI in cheminformatics with the CDK and Bioclipse. *Journal of Cheminformatics*, *5*(1). doi:[10.1186/1758-2946-5-14](https://doi.org/10.1186/1758-2946-5-14)
+
+**Willighagen, E. L.**, Waagmeester, A., Spjuth, O., Ansell, P., Williams, A. J., Tkachenko, V., Hastings, J., Chen, B., & Wild, D. J. (2013). The ChEMBL database as linked open data. *Journal of Cheminformatics*, *5*(1). doi:[10.1186/1758-2946-5-23](https://doi.org/10.1186/1758-2946-5-23)
+
+`2012`
+Spjuth, O., Georgiev, V., Carlsson, L., Alvarsson, J., Berg, A., **Willighagen, E.**, Wikberg, J. E. S., & Eklund, M. (2012). Bioclipse-R: integrating management and visualization of life science data with statistical analysis. *Bioinformatics*, *29*(2), 286–289. doi:[10.1093/bioinformatics/bts681](https://doi.org/10.1093/bioinformatics/bts681)
+
+Kohonen, P., Benfenati, E., Bower, D., Ceder, R., Crump, M., Cross, K., Grafström, R. C., Healy, L., Helma, C., Jeliazkova, N., Jeliazkov, V., Maggioni, S., Miller, S., Myatt, G., Rautenberg, M., Stacey, G., **Willighagen, E.**, Wiseman, J., & Hardy, B. (2013). The ToxBank Data Warehouse: Supporting the Replacement of In Vivo Repeated Dose Systemic Toxicity Testing. *Molecular Informatics*, *32*(1), 47–63. doi:[10.1002/minf.201200114](https://doi.org/10.1002/minf.201200114)
+
+Marshall, M. S., Boyce, R., Deus, H. F., Zhao, J., **Willighagen, E. L.**, Samwald, M., Pichler, E., Hajagos, J., Prud’hommeaux, E., & Stephens, S. (2012). Emerging practices for mapping and linking life sciences data using RDF — A case series. *Journal of Web Semantics*, *14*, 2–13. doi:[10.1016/j.websem.2012.02.003](https://doi.org/10.1016/j.websem.2012.02.003)
+
+Guha, R., & **Willighagen, E**. (2012). A Survey of Quantitative Descriptions of Molecular Structure. *Current Topics in Medicinal Chemistry*, *12*(18), 1946–1956. doi:[10.2174/156802612804910278](https://doi.org/10.2174/156802612804910278)
+
+Neylon, C., Aerts, J., Brown, C. T., Coles, S. J., Hatton, L., Lemire, D., Millman, K. J., Murray-Rust, P., Perez, F., Saunders, N., Shah, N., Smith, A., Varoquaux, G., & **Willighagen, E.** (2012). Changing computational research. The challenges ahead. *Source Code for Biology and Medicine*, *7*(1). doi:[10.1186/1751-0473-7-2](https://doi.org/10.1186/1751-0473-7-2)
+
+Williams, A. J., Ekins, S., Spjuth, O., & **Willighagen, E. L.** (2012). Accessing, Using, and Creating Chemical Property Databases for Computational Toxicology Modeling. In *Methods in Molecular Biology* (pp. 221–241). Humana Press. doi:[10.1007/978-1-62703-050-2_10](https://doi.org/10.1007/978-1-62703-050-2_10)
+
+Spjuth, O., Carlsson, L., Alvarsson, J., Georgiev, V., **Willighagen, E.**, & Eklund, M. (2012). Open Source Drug Discovery with Bioclipse. *Current Topics in Medicinal Chemistry*, *12*(18), 1980–1986. doi:[10.2174/156802612804910287](https://doi.org/10.2174/156802612804910287)
+
+Wegner, J. K., Sterling, A., Guha, R., Bender, A., Faulon, J.-L., Hastings, J., O’Boyle, N., Overington, J., Van Vlijmen, H., & **Willighagen, E.** (2012). Cheminformatics. *Communications of the ACM*, *55*(11), 65–75. doi:[10.1145/2366316.2366334](https://doi.org/10.1145/2366316.2366334)
+
+Williams, A. J., Harland, L., Groth, P., Pettifer, S., Chichester, C., **Willighagen, E. L.**, Evelo, C. T., Blomberg, N., Ecker, G., Goble, C., & Mons, B. (2012). Open PHACTS: semantic interoperability for drug discovery. *Drug Discovery Today*, *17*(21–22), 1188–1198. doi:[10.1016/j.drudis.2012.05.016](https://doi.org/10.1016/j.drudis.2012.05.016)
+
 `2011`
+Hastings, J., Chepelev, L., **Willighagen, E.**, Adams, N., Steinbeck, C., & Dumontier, M. (2011). The Chemical Information Ontology: Provenance and Disambiguation for Chemical Data on the Biological Semantic Web. *PLoS ONE*, *6*(10), e25513. doi:[10.1371/journal.pone.0025513](https://doi.org/10.1371/journal.pone.0025513)
+
 Rojas-Chertó, M., Kasper, P. T., **Willighagen, E. L.**, Vreeken, R. J., Hankemeier, T., & Reijmers, T. H. (2011). Elemental composition determination based on MS*n*. *Bioinformatics*, *27*(17), 2376–2383. doi:[10.1093/bioinformatics/btr409](https://doi.org/10.1093/bioinformatics/btr409)
 
 Samwald, M., Jentzsch, A., Bouton, C., Kallesøe, C. S., **Willighagen, E.**, Hajagos, J., Marshall, M. S., Prud’hommeaux, E., Hassanzadeh, O., Pichler, E., & Stephens, S. (2011). Linked open drug data for pharmaceutical research and development. *Journal of Cheminformatics*, *3*(1). doi:[10.1186/1758-2946-3-19](https://doi.org/10.1186/1758-2946-3-19)
@@ -162,7 +203,7 @@ meester, A. Williams, **E. Willighagen**, *Scientific lenses to support multiple
 over linked chemistry data*. In: Mika, P., Tudorache, T., Bernstein, A., Welty, C.,
 Knoblock, C., Vrandečić, D., Groth, P., Noy, N., Janowicz, K., Goble, C. (Eds.), The
 Semantic Web – ISWC 2014. Vol. 8796 of Lecture Notes in Computer Science.
-Springer International Publishing, Cham, Ch. 7, pp. 98-113, 2014.
+Springer International Publishing, Cham, Ch. 7, pp. 98-113, 2014. doi:[10.1007/978-3-319-11964-9_7](https://doi.org/10.1007/978-3-319-11964-9_7)
 
 N. Jeliazkova, P. Doganis, B. Fadeel, R. Grafstrom, J. Hastings, V. Jeliazkov, P.
 Kohonen, C. Munteanu, H. Sarimveis, B. Smeets, G. Tsiliki, D. Vorgrimmler,
