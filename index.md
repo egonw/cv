@@ -72,7 +72,36 @@ Scientific publications in international journals with a referee system.
 `2024`
 Bernabé, C. H., Thielemans, L., Kaliyaperumal, R., Carta, C., Zhang, S., van Gelder, C. W. G., Benis, N., da Silva Santos, L. O. B., Cornet, R., dos Santos Vieira, B., Lalout, N., Henriques, I., Ballesteros, A. C., Burger, K., Kersloot, M. G., Ehrhart, F., van Enckevort, E., Evelo, C. T., Gray, A. J. G., …, **Willighagem E. L.**, Jansen, M., Mons, B., Roos, M., Jacobsen, A. (2024). Building Expertise on FAIR Through Evolving Bring Your Own Data (BYOD) Workshops: Describing the Data, Software, and Management-focused Approaches and Their Evolution. *Data Intelligence*, *6*(2), 429–456. doi:[10.1162/dint_a_00236](https://doi.org/10.1162/dint_a_00236)
 
+`2018`
+Karcher, S., **Willighagen, E. L.**, Rumble, J., Ehrhart, F., Evelo, C. T., Fritts, M., Gaheen, S., Harper, S. L., Hoover, M. D., Jeliazkova, N., Lewinski, N., Marchese Robinson, R. L., Mills, K. C., Mustad, A. P., Thomas, D. G., Tsiliki, G., & Hendren, C. O. (2018). Integration among databases and data sets to support productive nanotechnology: Challenges and recommendations. *NanoImpact*, *9*, 85–101. doi:[10.1016/j.impact.2017.11.002](https://doi.org/10.1016/j.impact.2017.11.002)
+
+`2017`
+Lampa, S., **Willighagen, E.**, Kohonen, P., King, A., Vrandečić, D., Grafström, R., & Spjuth, O. (2017). RDFIO: extending Semantic MediaWiki for interoperable biomedical data management. *Journal of Biomedical Semantics*, *8*(1). doi:[10.1186/s13326-017-0136-y](https://doi.org/10.1186/s13326-017-0136-y)
+
+Leist, M., Ghallab, A., Graepel, R., Marchan, R., Hassan, R., Bennekou, S. H., Limonciel, A., Vinken, M., Schildknecht, S., Waldmann, T., Danen, E., van Ravenzwaay, B., Kamp, H., Gardner, I., Godoy, P., Bois, F. Y., Braeuning, A., Reif, R., Oesch, F., … Hengstler, J. G. (2017). Adverse outcome pathways: opportunities, limitations and open questions. *Archives of Toxicology*, *91*(11), 3477–3505. doi:[10.1007/s00204-017-2045-3](https://doi.org/10.1007/s00204-017-2045-3)
+
+Nymark, P., Rieswijk, L., Ehrhart, F., Jeliazkova, N., Tsiliki, G., Sarimveis, H., Evelo, C. T., Hongisto, V., Kohonen, P., **Willighagen, E.**, & Grafström, R. C. (2017). A Data Fusion Pipeline for Generating and Enriching Adverse Outcome Pathway Descriptions. *Toxicological Sciences*, *162*(1), 264–275. doi:[10.1093/toxsci/kfx252](https://doi.org/10.1093/toxsci/kfx252)
+
+van Rijswijk, M., Beirnaert, C., Caron, C., Cascante, M., Dominguez, V., Dunn, W. B., Ebbels, T. M. D., Giacomoni, F., Gonzalez-Beltran, A., Hankemeier, T., Haug, K., Izquierdo-Garcia, J. L., Jimenez, R. C., Jourdan, F., Kale, N., Klapa, M. I., Kohlbacher, O., Koort, K., Kultima, K., … Steinbeck, C. (2017). The future of metabolomics in ELIXIR. *F1000Research*, *6*, 1649. doi:[10.12688/f1000research.12342.2](https://doi.org/10.12688/f1000research.12342.2)
+
+Guha, R., & **Willighagen, E.** (2017). Helping to improve the practice of cheminformatics. *Journal of Cheminformatics*, *9*(1). doi:[10.1186/s13321-017-0217-z](https://doi.org/10.1186/s13321-017-0217-z)
+
+Kohonen, P., Parkkinen, J. A., **Willighagen, E. L.**, Ceder, R., Wennerberg, K., Kaski, S., & Grafström, R. C. (2017). A transcriptomics data-driven gene space accurately predicts liver cytopathology and drug-induced liver injury. *Nature Communications*, *8*(1). doi:[10.1038/ncomms15932](https://doi.org/10.1038/ncomms15932)
+
+**Willighagen, E. L.**, Mayfield, J. W., Alvarsson, J., Berg, A., Carlsson, L., Jeliazkova, N., Kuhn, S., Pluskal, T., Rojas-Chertó, M., Spjuth, O., Torrance, G., Evelo, C. T., Guha, R., & Steinbeck, C. (2017). The Chemistry Development Kit (CDK) v2.0: atom typing, depiction, molecular formulas, and substructure searching. *Journal of Cheminformatics*, *9*(1). doi:[10.1186/s13321-017-0220-4](https://doi.org/10.1186/s13321-017-0220-4)
+
+`2016`
+Wohlgemuth, G., Mehta, S. S., Mejia, R. F., Neumann, S., Pedrosa, D., Pluskal, T., Schymanski, E. L., **Willighagen, E. L.**, Wilson, M., Wishart, D. S., Arita, M., Dorrestein, P. C., Bandeira, N., Wang, M., Schulze, T., Salek, R. M., Steinbeck, C., Nainala, V. C., Mistrik, R., … Fiehn, O. (2016). SPLASH, a hashed identifier for mass spectra. *Nature Biotechnology*, *34*(11), 1099–1101. doi:[10.1038/nbt.3689](https://doi.org/10.1038/nbt.3689)
+
+Spjuth, O., Rydberg, P., **Willighagen, E. L.**, Evelo, C. T., & Jeliazkova, N. (2016). XMetDB: an open access database for xenobiotic metabolism. *Journal of Cheminformatics*, *8*(1). doi:[10.1186/s13321-016-0161-3](https://doi.org/10.1186/s13321-016-0161-3)
+
+Waagmeester, A., Kutmon, M., Riutta, A., Miller, R., **Willighagen, E. L.**, Evelo, C. T., & Pico, A. R. (2016). Using the Semantic Web for Rapid Integration of WikiPathways with Other Biological Online Data Resources. *PLOS Computational Biology*, *12*(6), e1004989. doi:[10.1371/journal.pcbi.1004989](https://doi.org/10.1371/journal.pcbi.1004989)
+
 `2015`
+Kutmon, M., Riutta, A., Nunes, N., Hanspers, K., **Willighagen, E. L.**, Bohler, A., Mélius, J., Waagmeester, A., Sinha, S. R., Miller, R., Coort, S. L., Cirillo, E., Smeets, B., Evelo, C. T., & Pico, A. R. (2015). WikiPathways: capturing the full diversity of pathway knowledge. *Nucleic Acids Research*, *44*(D1), D488–D494. doi:[10.1093/nar/gkv1024](https://doi.org/10.1093/nar/gkv1024)
+
+Tsiliki, G., Munteanu, C. R., Seoane, J. A., Fernandez-Lozano, C., Sarimveis, H., & **Willighagen, E. L.** (2015). RRegrs: an R package for computer-aided model selection with multiple regression models. *Journal of Cheminformatics*, *7*(1). doi:[10.1186/s13321-015-0094-2](https://doi.org/10.1186/s13321-015-0094-2)
+
 Bohler, A., Eijssen, L. M. T., van Iersel, M. P., Leemans, C., **Willighagen, E. L.**, Kutmon, M., Jaillard, M., & Evelo, C. T. (2015). Automatically visualise and analyse data on pathways using PathVisioRPC from any programming environment. *BMC Bioinformatics*, *16*(1). doi:[10.1186/s12859-015-0708-8](https://doi.org/10.1186/s12859-015-0708-8)
 
 Fu, G., Batchelor, C., Dumontier, M., Hastings, J., **Willighagen, E.**, & Bolton, E. (2015). PubChemRDF: towards the semantic annotation of PubChem compound and substance databases. *Journal of Cheminformatics*, *7*(1). doi:[10.1186/s13321-015-0084-4](https://doi.org/10.1186/s13321-015-0084-4)
@@ -194,7 +223,9 @@ T. Kuhn, **E. Willighagen**, C. Evelo, N. Queralt-Rosinach, E. Centeno, L.I. Fur
 LI. *Reliable Granular References to Changing Linked Data*. In: d’Amato C, Fernandez
 M, Tamma V, Lecue F, Cudré-Mauroux P, Sequeda J, et al., editors. The Semantic
 Web – ISWC 2017. Cham: Springer International Publishing; 2017. p.
-436–51.
+436–51. doi:[10.1007/978-3-319-68288-4_26](https://doi.org/10.1007/978-3-319-68288-4_26)
+
+Nielsen, F. Å., Mietchen, D., & **Willighagen, E.** (2017). Scholia, Scientometrics and Wikidata. In *Lecture Notes in Computer Science* (pp. 237–259). Springer International Publishing. doi:[10.1007/978-3-319-70407-4_36](https://doi.org/10.1007/978-3-319-70407-4_36)
 
 C. Batchelor, C. Brenninkmeijer, C. Chichester, M. Davies, D. Digles, I. Dunlop,
 C. Evelo, A. Gaulton, C. Goble, A. Gray, P. Groth, L. Harland, K. Karapetyan, A.
