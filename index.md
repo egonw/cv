@@ -6,7 +6,7 @@ title: Egon Willighagen's CV
 # Egon Willighagen
 Assistant professor, Maastricht University.
 
-<i>2025-04-07</i>
+<i>2025-04-08</i>
 
 <a href="egon.willighagen@maastrichtuniversity.nl">egon.willighagen@maastrichtuniversity.nl</a>
 
@@ -72,7 +72,80 @@ Scientific publications in international journals with a referee system.
 `2024`
 Bernabé, C. H., Thielemans, L., Kaliyaperumal, R., Carta, C., Zhang, S., van Gelder, C. W. G., Benis, N., da Silva Santos, L. O. B., Cornet, R., dos Santos Vieira, B., Lalout, N., Henriques, I., Ballesteros, A. C., Burger, K., Kersloot, M. G., Ehrhart, F., van Enckevort, E., Evelo, C. T., Gray, A. J. G., …, **Willighagem E. L.**, Jansen, M., Mons, B., Roos, M., Jacobsen, A. (2024). Building Expertise on FAIR Through Evolving Bring Your Own Data (BYOD) Workshops: Describing the Data, Software, and Management-focused Approaches and Their Evolution. *Data Intelligence*, *6*(2), 429–456. doi:[10.1162/dint_a_00236](https://doi.org/10.1162/dint_a_00236)
 
+`2022`
+Jacobs, A., Williams, D., Hickey, K., Patrick, N., Williams, A. J., Chalk, S., McEwen, L., **Willighagen, E.**, Walker, M., Bolton, E., Sinclair, G., & Sanford, A. (2022). CAS Common Chemistry in 2021: Expanding Access to Trusted Chemical Information for the Scientific Community. *Journal of Chemical Information and Modeling*, *62*(11), 2737–2743. doi:[10.1021/acs.jcim.2c00268](https://doi.org/10.1021/acs.jcim.2c00268)
+
+Krans, N. A., Ammar, A., Nymark, P., **Willighagen, E. L.**, Bakker, M. I., & Quik, J. T. K. (2022). FAIR assessment tools: evaluating use and performance. *NanoImpact*, *27*, 100402. doi:[10.1016/j.impact.2022.100402](https://doi.org/10.1016/j.impact.2022.100402)
+
+Miller, R. A., Kutmon, M., Bohler, A., Waagmeester, A., Evelo, C. T., & **Willighagen, E. L.** (2022). Understanding signaling and metabolic paths using semantified and harmonized information about biological interactions. *PLOS ONE*, *17*(4), e0263057. doi:[10.1371/journal.pone.0263057](https://doi.org/10.1371/journal.pone.0263057)
+
+Rutz, A., Sorokina, M., Galgonek, J., Mietchen, D., **Willighagen, E.**, Gaudry, A., Graham, J. G., Stephan, R., Page, R., Vondrášek, J., Steinbeck, C., Pauli, G. F., Wolfender, J.-L., Bisson, J., & Allard, P.-M. (2022). The LOTUS initiative for open knowledge management in natural products research. *eLife*, *11*. doi:[10.7554/elife.70780](https://doi.org/10.7554/elife.70780)
+
+Van Rijn, J., Afantitis, A., Culha, M., Dusinska, M., Exner, T. E., Jeliazkova, N., Longhin, E. M., Lynch, I., Melagraki, G., Nymark, P., Papadiamantis, A. G., Winkler, D. A., Yilmaz, H., & **Willighagen, E.** (2022). European Registry of Materials: global, unique identifiers for (undisclosed) nanomaterials. *Journal of Cheminformatics*, *14*(1). doi:[10.1186/s13321-022-00614-7](https://doi.org/10.1186/s13321-022-00614-7)
+
+Martens, M., Evelo, C. T., & **Willighagen, E. L.** (2022). Providing Adverse Outcome Pathways from the AOP-Wiki in a Semantic Web Format to Increase Usability and Accessibility of the Content. *Applied In Vitro Toxicology*, *8*(1), 2–13. doi:[10.1089/aivt.2021.0010](https://doi.org/10.1089/aivt.2021.0010)
+
+Mortensen, H. M., Martens, M., Senn, J., Levey, T., Evelo, C. T., **Willighagen, E. L.**, & Exner, T. (2022). The AOP-DB RDF: Applying FAIR Principles to the Semantic Integration of AOP Data Using the Research Description Framework. *Frontiers in Toxicology*, *4*. doi:[10.3389/ftox.2022.803983](https://doi.org/10.3389/ftox.2022.803983)
+
+Ni, Z., Wölk, M., Jukes, G., Mendivelso Espinosa, K., Ahrends, R., Aimo, L., Alvarez-Jarreta, J., Andrews, S., Andrews, R., Bridge, A., Clair, G. C., Conroy, M. J., Fahy, E., Gaud, C., Goracci, L., Hartler, J., Hoffmann, N., Kopczyinki, D., Korf, A., … Fedorova, M. (2022). Guiding the choice of informatics software and tools for lipidomics research applications. *Nature Methods*, *20*(2), 193–204. doi:[10.1038/s41592-022-01710-0](https://doi.org/10.1038/s41592-022-01710-0)
+
+Sochorová, M., Vávrová, K., Fedorova, M., Ni, Z., Slenter, D., Kutmon, M., **Willighagen, E. L.**, Letsiou, S., Töröcsik, D., Marchetti-Deschmann, M., Zoratto, S., Kremslehner, C., & Gruber, F. (2022). Research Techniques Made Simple: Lipidomic Analysis in Skin Research. *Journal of Investigative Dermatology*, *142*(1), 4-11.e1. doi:[10.1016/j.jid.2021.09.017](https://doi.org/10.1016/j.jid.2021.09.017)
+
+`2021`
+Ostaszewski, M., Niarakis, A., Mazein, A., Kuperstein, I., Phair, R., Orta‐Resendiz, A., Singh, V., Aghamiri, S. S., Acencio, M. L., Glaab, E., Ruepp, A., Fobo, G., Montrone, C., Brauner, B., Frishman, G., Monraz Gómez, L. C., Somers, J., Hoch, M., Kumar Gupta, S., … Schneider, R. (2021). COVID‐19 Disease Map, a computational knowledge repository of virus‐host interaction mechanisms. *Molecular Systems Biology*, *17*(12). doi:[10.15252/msb.202110851](https://doi.org/10.15252/msb.202110851)
+
+Meldal, B. H. M., Perfetto, L., Combe, C., Lubiana, T., Ferreira Cavalcante, J. V., Bye-A-Jee, H., Waagmeester, A., del-Toro, N., Shrivastava, A., Barrera, E., Wong, E., Mlecnik, B., Bindea, G., Panneerselvam, K., **Willighagen, E.**, Rappsilber, J., Porras, P., Hermjakob, H., & Orchard, S. (2021). Complex Portal 2022: new curation frontiers. *Nucleic Acids Research*, *50*(D1), D578–D586. doi:[10.1093/nar/gkab991](https://doi.org/10.1093/nar/gkab991)
+
+Hanspers, K., Kutmon, M., Coort, S. L., Digles, D., Dupuis, L. J., Ehrhart, F., Hu, F., Lopes, E. N., Martens, M., Pham, N., Shin, W., Slenter, D. N., Waagmeester, A., **Willighagen, E. L.**, Winckers, L. A., Evelo, C. T., & Pico, A. R. (2021). Ten simple rules for creating reusable pathway models for computational analysis and visualization. *PLOS Computational Biology*, *17*(8), e1009226. doi:[10.1371/journal.pcbi.1009226](https://doi.org/10.1371/journal.pcbi.1009226)
+
+Kyle, J. E., Aimo, L., Bridge, A. J., Clair, G., Fedorova, M., Helms, J. B., Molenaar, M. R., Ni, Z., Orešič, M., Slenter, D., **Willighagen, E.**, & Webb-Robertson, B.-J. M. (2021). Interpreting the lipidome: bioinformatic approaches to embrace the complexity. *Metabolomics*, *17*(6). doi:[10.1007/s11306-021-01802-6](https://doi.org/10.1007/s11306-021-01802-6)
+
+**Willighagen, E.** (2021). Bacting: a next generation, command line version of Bioclipse. *Journal of Open Source Software*, *6*(62), 2558. doi:[10.21105/joss.02558](https://doi.org/10.21105/joss.02558)
+
+Winckers, L. A., Evelo, C. T., **Willighagen, E. L.**, & Kutmon, M. (2021). Investigating the Molecular Processes behind the Cell-Specific Toxicity Response to Titanium Dioxide Nanobelts. *International Journal of Molecular Sciences*, *22*(17), 9432. doi:[10.3390/ijms22179432](https://doi.org/10.3390/ijms22179432)
+
+Ehrhart, F., Jacobsen, A., Rigau, M., Bosio, M., Kaliyaperumal, R., Laros, J. F. J., **Willighagen, E. L.**, Valencia, A., Roos, M., Capella-Gutierrez, S., Curfs, L. M. G., & Evelo, C. T. (2021). A catalogue of 863 Rett-syndrome-causing MECP2 mutations and lessons learned from data integration. *Scientific Data*, *8*(1). doi:[10.1038/s41597-020-00794-7](https://doi.org/10.1038/s41597-020-00794-7)
+
+Ehrhart, F., **Willighagen, E. L.**, Kutmon, M., van Hoften, M., Curfs, L. M. G., & Evelo, C. T. (2021). A resource to explore the discovery of rare diseases and their causative genes. *Scientific Data*, *8*(1). doi:[10.1038/s41597-021-00905-y](https://doi.org/10.1038/s41597-021-00905-y)
+
+Murugadoss, S. (2021). A strategy towards the generation of testable adverse outcome pathways for nanomaterials. *ALTEX*. doi:[10.14573/altex.2102191](https://doi.org/10.14573/altex.2102191)
+
+Waagmeester, A., **Willighagen, E. L.**, Su, A. I., Kutmon, M., Gayo, J. E. L., Fernández-Álvarez, D., Groom, Q., Schaap, P. J., Verhagen, L. M., & Koehorst, J. J. (2021). A protocol for adding knowledge to Wikidata: aligning resources on human coronaviruses. *BMC Biology*, *19*(1). doi:[10.1186/s12915-020-00940-y](https://doi.org/10.1186/s12915-020-00940-y)
+
+`2020`
+Ammar, A., Bonaretti, S., Winckers, L., Quik, J., Bakker, M., Maier, D., Lynch, I., van Rijn, J., & **Willighagen, E.** (2020). A Semi-Automated Workflow for FAIR Maturity Indicators in the Life Sciences. *Nanomaterials*, *10*(10), 2068. doi:[10.3390/nano10102068](https://doi.org/10.3390/nano10102068)
+
+Lynch, I., Afantitis, A., Exner, T., Himly, M., Lobaskin, V., Doganis, P., Maier, D., Sanabria, N., Papadiamantis, A. G., Rybinska-Fryca, A., Gromelski, M., Puzyn, T., **Willighagen, E.**, Johnston, B. D., Gulumian, M., Matzke, M., Green Etxabe, A., Bossa, N., Serra, A., … Melagraki, G. (2020). Can an InChI for Nano Address the Need for a Simplified Representation of Complex Nanomaterials across Experimental and Nanoinformatics Studies? *Nanomaterials*, *10*(12), 2493. doi:[10.3390/nano10122493](https://doi.org/10.3390/nano10122493)
+
+Martens, M., Ammar, A., Riutta, A., Waagmeester, A., Slenter, D. N., Hanspers, K., A. Miller, R., Digles, D., Lopes, E. N., Ehrhart, F., Dupuis, L. J., Winckers, L. A., Coort, S. L., **Willighagen, E. L.**, Evelo, C. T., Pico, A. R., & Kutmon, M. (2020). WikiPathways: connecting communities. *Nucleic Acids Research*, *49*(D1), D613–D621. doi:[10.1093/nar/gkaa1024](https://doi.org/10.1093/nar/gkaa1024)
+
+Afantitis, A., Melagraki, G., Isigonis, P., Tsoumanis, A., Varsou, D. D., Valsami-Jones, E., Papadiamantis, A., Ellis, L.-J. A., Sarimveis, H., Doganis, P., Karatzas, P., Tsiros, P., Liampa, I., Lobaskin, V., Greco, D., Serra, A., Kinaret, P. A. S., Saarimäki, L. A., Grafström, R., … Lynch, I. (2020). NanoSolveIT Project: Driving nanoinformatics research to develop innovative and integrated tools for in silico nanosafety assessment. *Computational and Structural Biotechnology Journal*, *18*, 583–602. doi:[10.1016/j.csbj.2020.02.023](https://doi.org/10.1016/j.csbj.2020.02.023)
+
+Jacobsen, A., de Miranda Azevedo, R., Juty, N., Batista, D., Coles, S., Cornet, R., Courtot, M., Crosas, M., Dumontier, M., Evelo, C. T., Goble, C., Guizzardi, G., Hansen, K. K., Hasnain, A., Hettne, K., Heringa, J., Hooft, R. W. W., Imming, M., Jeffery, K. G., … Schultes, E. (2020). FAIR Principles: Interpretations and Implementation Considerations. *Data Intelligence*, *2*(1–2), 10–29. doi:[10.1162/dint_r_00024](https://doi.org/10.1162/dint_r_00024)
+
+Ostaszewski, M., Mazein, A., Gillespie, M. E., Kuperstein, I., Niarakis, A., Hermjakob, H., Pico, A. R., **Willighagen, E. L.**, Evelo, C. T., Hasenauer, J., Schreiber, F., Dräger, A., Demir, E., Wolkenhauer, O., Furlong, L. I., Barillot, E., Dopazo, J., Orta-Resendiz, A., Messina, F., … Schneider, R. (2020). COVID-19 Disease Map, building a computational repository of SARS-CoV-2 virus-host interaction mechanisms. *Scientific Data*, *7*(1). doi:[10.1038/s41597-020-0477-8](https://doi.org/10.1038/s41597-020-0477-8)
+
+Waagmeester, A., Stupp, G., Burgstaller-Muehlbacher, S., Good, B. M., Griffith, M., Griffith, O. L., Hanspers, K., Hermjakob, H., Hudson, T. S., Hybiske, K., Keating, S. M., Manske, M., Mayers, M., Mietchen, D., Mitraka, E., Pico, A. R., Putman, T., Riutta, A., Queralt-Rosinach, N., … Su, A. I. (2020). Wikidata as a knowledge graph for the life sciences. *eLife*, *9*. doi:[10.7554/elife.52614](https://doi.org/10.7554/elife.52614)
+
+`2019`
+Stanstrup, J., Broeckling, C., Helmus, R., Hoffmann, N., Mathé, E., Naake, T., Nicolotti, L., Peters, K., Rainer, J., Salek, R., Schulze, T., Schymanski, E., Stravs, M., Thévenot, E., Treutler, H., Weber, R., **Willighagen, E.**, Witting, M., & Neumann, S. (2019). The metaRbolomics Toolbox in Bioconductor and beyond. *Metabolites*, *9*(10), 200. doi:[10.3390/metabo9100200](https://doi.org/10.3390/metabo9100200)
+
+Kutmon, M., Ehrhart, F., **Willighagen, E. L.**, Evelo, C. T., & Coort, S. L. (2019). CyTargetLinker app update: A flexible solution for network extension in Cytoscape. *F1000Research*, *7*, 743. doi:[10.12688/f1000research.14613.2](https://doi.org/10.12688/f1000research.14613.2)
+
+Menden, M. P., Wang, D., Mason, M. J., Szalai, B., Bulusu, K. C., Guan, Y., Yu, T., Kang, J., Jeon, M., Wolfinger, R., Nguyen, T., Zaslavskiy, M., Abante, J., Abecassis, B. S., Aben, N., Aghamirzaie, D., Aittokallio, T., Akhtari, F. S., Al-lazikani, B., … Saez-Rodriguez, J. (2019). Community assessment to advance computational prediction of cancer drug combinations in a pharmacogenomic screen. *Nature Communications*, *10*(1). doi:[10.1038/s41467-019-09799-2](https://doi.org/10.1038/s41467-019-09799-2)
+
 `2018`
+Miller, R. A., Ehrhart, F., Eijssen, L. M. T., Slenter, D. N., Curfs, L. M. G., Evelo, C. T., **Willighagen, E. L.**, & Kutmon, M. (2019). Beyond Pathway Analysis: Identification of Active Subnetworks in Rett Syndrome. *Frontiers in Genetics*, *10*. doi:[10.3389/fgene.2019.00059](https://doi.org/10.3389/fgene.2019.00059)
+
+Townend, G. S., Ehrhart, F., van Kranen, H. J., Wilkinson, M., Jacobsen, A., Roos, M., **Willighagen, E. L.**, van Enckevort, D., Evelo, C. T., & Curfs, L. M. G. (2018). *MECP2*
+ variation in Rett syndrome-An overview of current coverage of genetic and phenotype data within existing databases. *Human Mutation*, *39*(7), 914–924. doi:[10.1002/humu.23542](https://doi.org/10.1002/humu.23542)
+
+Martens, M., Verbruggen, T., Nymark, P., Grafström, R., Burgoon, L. D., Aladjov, H., Torres Andón, F., Evelo, C. T., & **Willighagen, E. L.** (2018). Introducing WikiPathways as a Data-Source to Support Adverse Outcome Pathways for Regulatory Risk Assessment of Chemicals and Nanomaterials. *Frontiers in Genetics*, *9*. doi:[10.3389/fgene.2018.00661](https://doi.org/10.3389/fgene.2018.00661)
+
+Miller, R. A., Woollard, P., **Willighagen, E. L.**, Digles, D., Kutmon, M., Loizou, A., Waagmeester, A., Senger, S., & Evelo, C. T. (2018). Explicit interaction information from WikiPathways in RDF facilitates drug discovery in the Open PHACTS Discovery Platform. *F1000Research*, *7*, 75. doi:[10.12688/f1000research.13197.2](https://doi.org/10.12688/f1000research.13197.2)
+
+Slenter, D. N., Kutmon, M., Hanspers, K., Riutta, A., Windsor, J., Nunes, N., Mélius, J., Cirillo, E., Coort, S. L., Digles, D., Ehrhart, F., Giesbertz, P., Kalafati, M., Martens, M., Miller, R., Nishida, K., Rieswijk, L., Waagmeester, A., Eijssen, L. M. T., … **Willighagen, E. L.** (2017). WikiPathways: a multifaceted pathway database bridging metabolomics to other omics research. *Nucleic Acids Research*, *46*(D1), D661–D667. doi:[10.1093/nar/gkx1064](https://doi.org/10.1093/nar/gkx1064)
+
 Karcher, S., **Willighagen, E. L.**, Rumble, J., Ehrhart, F., Evelo, C. T., Fritts, M., Gaheen, S., Harper, S. L., Hoover, M. D., Jeliazkova, N., Lewinski, N., Marchese Robinson, R. L., Mills, K. C., Mustad, A. P., Thomas, D. G., Tsiliki, G., & Hendren, C. O. (2018). Integration among databases and data sets to support productive nanotechnology: Challenges and recommendations. *NanoImpact*, *9*, 85–101. doi:[10.1016/j.impact.2017.11.002](https://doi.org/10.1016/j.impact.2017.11.002)
 
 `2017`
@@ -83,8 +156,6 @@ Leist, M., Ghallab, A., Graepel, R., Marchan, R., Hassan, R., Bennekou, S. H., L
 Nymark, P., Rieswijk, L., Ehrhart, F., Jeliazkova, N., Tsiliki, G., Sarimveis, H., Evelo, C. T., Hongisto, V., Kohonen, P., **Willighagen, E.**, & Grafström, R. C. (2017). A Data Fusion Pipeline for Generating and Enriching Adverse Outcome Pathway Descriptions. *Toxicological Sciences*, *162*(1), 264–275. doi:[10.1093/toxsci/kfx252](https://doi.org/10.1093/toxsci/kfx252)
 
 van Rijswijk, M., Beirnaert, C., Caron, C., Cascante, M., Dominguez, V., Dunn, W. B., Ebbels, T. M. D., Giacomoni, F., Gonzalez-Beltran, A., Hankemeier, T., Haug, K., Izquierdo-Garcia, J. L., Jimenez, R. C., Jourdan, F., Kale, N., Klapa, M. I., Kohlbacher, O., Koort, K., Kultima, K., … Steinbeck, C. (2017). The future of metabolomics in ELIXIR. *F1000Research*, *6*, 1649. doi:[10.12688/f1000research.12342.2](https://doi.org/10.12688/f1000research.12342.2)
-
-Guha, R., & **Willighagen, E.** (2017). Helping to improve the practice of cheminformatics. *Journal of Cheminformatics*, *9*(1). doi:[10.1186/s13321-017-0217-z](https://doi.org/10.1186/s13321-017-0217-z)
 
 Kohonen, P., Parkkinen, J. A., **Willighagen, E. L.**, Ceder, R., Wennerberg, K., Kaski, S., & Grafström, R. C. (2017). A transcriptomics data-driven gene space accurately predicts liver cytopathology and drug-induced liver injury. *Nature Communications*, *8*(1). doi:[10.1038/ncomms15932](https://doi.org/10.1038/ncomms15932)
 
@@ -219,6 +290,8 @@ J. Alvarsson, Introduction to Pharmaceutical Bioinformatics. Oakleaf Academic, S
 
 ### Conference proceedings
 
+Kuhn, T., Banda, J. M., **Willighagen, E.**, Ehrhart, F., Evelo, C., Malas, T. B., Dumontier, M., Merono-Penuela, A., Malic, A., Poelen, J. H., Hurlbert, A. H., Centeno Ortiz, E., Furlong, L. I., Queralt-Rosinach, N., & Chichester, C. (2018). Nanopublications: A Growing Resource of Provenance-Centric Scientific Linked Data. *2018 IEEE 14th International Conference on E-Science (e-Science)*, 83–92. doi:[10.1109/escience.2018.00024](https://doi.org/10.1109/escience.2018.00024)
+
 T. Kuhn, **E. Willighagen**, C. Evelo, N. Queralt-Rosinach, E. Centeno, L.I. Furlong
 LI. *Reliable Granular References to Changing Linked Data*. In: d’Amato C, Fernandez
 M, Tamma V, Lecue F, Cudré-Mauroux P, Sequeda J, et al., editors. The Semantic
@@ -242,8 +315,8 @@ Kohonen, C. Munteanu, H. Sarimveis, B. Smeets, G. Tsiliki, D. Vorgrimmler,
 safe-by-design*. In: Bioinformatics and Biomedicine (BIBM), 2014 IEEE Interna-
 tional Conference on. IEEE, pp. 1-9. doi:[10.1109/bibm.2014.6999367](https://doi.org/10.1109/bibm.2014.6999367), 2014.
 
-J. Hastings, **E. Willighagen**, G. Owen, N. Jeliazkova, The eNanoMapper Consor-
-tium, C. Steinbeck, *eNanoMapper: Opportunities and challenges in using ontologies
+J. Hastings, **E. Willighagen**, G. Owen, N. Jeliazkova, The eNanoMapper Consortium,
+C. Steinbeck, *eNanoMapper: Opportunities and challenges in using ontologies
 to enable data integration for nanomaterial risk assessment*. In: Proceedings of the
 17th Annual Bio-Ontologies Meeting. pp. 18-21, 2014.
 
