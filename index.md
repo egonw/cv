@@ -69,6 +69,25 @@ University*, Cologne, Germany.
 
 Scientific publications in international journals with a referee system.
 
+`2011`
+Rojas-Chertó, M., Kasper, P. T., **Willighagen, E. L.**, Vreeken, R. J., Hankemeier, T., & Reijmers, T. H. (2011). Elemental composition determination based on MS*n*. *Bioinformatics*, *27*(17), 2376–2383. doi:[10.1093/bioinformatics/btr409](https://doi.org/10.1093/bioinformatics/btr409)
+
+Samwald, M., Jentzsch, A., Bouton, C., Kallesøe, C. S., **Willighagen, E.**, Hajagos, J., Marshall, M. S., Prud’hommeaux, E., Hassanzadeh, O., Pichler, E., & Stephens, S. (2011). Linked open drug data for pharmaceutical research and development. *Journal of Cheminformatics*, *3*(1). doi:[10.1186/1758-2946-3-19](https://doi.org/10.1186/1758-2946-3-19)
+
+Truszkowski, A., Neumann, S., Zielesny, A., **Willighagen, E.**, & Steinbeck, C. (2011). CDK-Taverna 2.0: migration and enhancements of an open-source pipelining solution. *Journal of Cheminformatics*, *3*(S1). doi:[10.1186/1758-2946-3-s1-p5](https://doi.org/10.1186/1758-2946-3-s1-p5)
+
+**Willighagen, E. L.**, Jeliazkova, N., Hardy, B., Grafström, R. C., & Spjuth, O. (2011). Computational toxicology using the OpenTox application programming interface and Bioclipse. *BMC Research Notes*, *4*(1). doi:[10.1186/1756-0500-4-487](https://doi.org/10.1186/1756-0500-4-487)
+
+Jessop, D. M., Adams, S. E., **Willighagen, E. L.**, Hawizy, L., & Murray-Rust, P. (2011). OSCAR4: a flexible architecture for chemical text-mining. *Journal of Cheminformatics*, *3*(1). doi:[10.1186/1758-2946-3-41](https://doi.org/10.1186/1758-2946-3-41)
+
+O’Boyle, N. M., Guha, R., **Willighagen, E. L.**, Adams, S. E., Alvarsson, J., Bradley, J.-C., Filippov, I. V., Hanson, R. M., Hanwell, M. D., Hutchison, G. R., James, C. A., Jeliazkova, N., Lang, A. S., Langner, K. M., Lonie, D. C., Lowe, D. M., Pansanel, J., Pavlov, D., Spjuth, O., … Murray-Rust, P. (2011). Open Data, Open Source and Open Standards in chemistry: The Blue Obelisk five years on. *Journal of Cheminformatics*, *3*(1). doi:[10.1186/1758-2946-3-37](https://doi.org/10.1186/1758-2946-3-37)
+
+Truszkowski, A., Jayaseelan, K. V., Neumann, S., **Willighagen, E. L.**, Zielesny, A., & Steinbeck, C. (2011). New developments on the cheminformatics open workflow environment CDK-Taverna. *Journal of Cheminformatics*, *3*(1). doi:[10.1186/1758-2946-3-54](https://doi.org/10.1186/1758-2946-3-54)
+
+**Willighagen, E. L.**, Alvarsson, J., Andersson, A., Eklund, M., Lampa, S., Lapins, M., Spjuth, O., & Wikberg, J. E. (2011). Linking the Resource Description Framework to cheminformatics and proteochemometrics. *Journal of Biomedical Semantics*, *2*(Suppl 1), S6. doi:[10.1186/2041-1480-2-s1-s6](https://doi.org/10.1186/2041-1480-2-s1-s6)
+
+**Willighagen, E. L.**, & Brändle, M. P. (2011). Resource description framework technologies in chemistry. *Journal of Cheminformatics*, *3*(1). doi:[10.1186/1758-2946-3-15](https://doi.org/10.1186/1758-2946-3-15)
+
 `2010`
 Kuhn, T., **Willighagen, E. L.**, Zielesny, A., & Steinbeck, C. (2010). CDK-Taverna: an open workflow environment for cheminformatics. *BMC Bioinformatics*, *11*(1). doi:[10.1186/1471-2105-11-159](https://doi.org/10.1186/1471-2105-11-159)
 
@@ -77,7 +96,7 @@ Spjuth, O., **Willighagen, E. L.**, Guha, R., Eklund, M., & Wikberg, J. E. (2010
 Wohlgemuth, G., Haldiya, P. K., **Willighagen, E.**, Kind, T., & Fiehn, O. (2010). The Chemical Translation Service—a web-based tool to improve standardization of metabolomic reports. *Bioinformatics*, *26*(20), 2647–2648. doi:[bioinformatics/btq476](https://doi.org/10.1093/bioinformatics/btq476)
 
 `2009`
-Spjuth, O., Alvarsson, J., Berg, A., Eklund, M., Kuhn, S., Mäsak, C., Torrance, G., Wagener, J., **Willighagen, E. L.**, Steinbeck, C., & Wikberg, J. E. (2009). Bioclipse 2: A scriptable integration platform for the life sciences. *BMC Bioinformatics*, *10*(1). doi:[10.1186/1471-2105-10-397]https://doi.org/10.1186/1471-2105-10-397)
+Spjuth, O., Alvarsson, J., Berg, A., Eklund, M., Kuhn, S., Mäsak, C., Torrance, G., Wagener, J., **Willighagen, E. L.**, Steinbeck, C., & Wikberg, J. E. (2009). Bioclipse 2: A scriptable integration platform for the life sciences. *BMC Bioinformatics*, *10*(1). doi:[10.1186/1471-2105-10-397](https://doi.org/10.1186/1471-2105-10-397)
 
 Wagener, J., Spjuth, O., **Willighagen, E. L.**, & Wikberg, J. E. (2009). XMPP for cloud computing in bioinformatics supporting discovery and invocation of asynchronous web services. *BMC Bioinformatics*, *10*(1). doi:[10.1186/1471-2105-10-279](https://doi.org/10.1186/1471-2105-10-279)
 
@@ -208,7 +227,7 @@ Systemic Toxicity Testing, SEURAT-1, 2011.
 R. Guha, O. Spjuth, **E. Willighagen**, *Collaborative Cheminformatics Applications*,
 In Collaborative Computational Technologies for Biomedical Research, Ed. S. Ekins,
 M.A.Z. Hupcey, and A.J. Williams, John Wiley & Sons,
-Inc., Hoboken, USA, ISBN: 9-780-470-63803-3, 2011.
+Inc., Hoboken, USA, ISBN: 9-780-470-63803-3, 2011. doi:[10.1002/9781118026038.ch24](https://doi.org/10.1002/9781118026038.ch24)
 
 **E. Willighagen**, *3D Molecular Representations, In Handbook of Cheminformatics
 Algorithms*, Ed. Faulon, J-P. and Bender, A., CRC Press, New York,
