@@ -69,7 +69,18 @@ University*, Cologne, Germany.
 
 Scientific publications in international journals with a referee system.
 
+`2025`
+Kienhuis, A., Krul, C., van Engelen, J., Evelo, C., Hessel, E., Hoekman, J., Kramer, N., Krop, E., Masereeuw, R., Moors, E., Negro, S., Piersma, A., Pieters, R., Teunis, M., **Willighagen, E.**, Legler, J. (2025). The Virtual Human Platform for Safety Assessment (VHP4Safety) project: Next generation chemical safety assessment based on human data. (2024). *ALTEX*. doi:[10.14573/altex.2407211](https://doi.org/10.14573/altex.2407211)
+
 `2024`
+Agrawal, A., Balcı, H., Hanspers, K., Coort, S. L., Martens, M., Slenter, D. N., Ehrhart, F., Digles, D., Waagmeester, A., Wassink, I., Abbassi-Daloii, T., Lopes, E. N., Iyer, A., Acosta, J. M., Willighagen, L. G., Nishida, K., Riutta, A., Basaric, H., Evelo, C. T., … Pico, A. R. (2023). WikiPathways 2024: next generation pathway database. *Nucleic Acids Research*, *52*(D1), D679–D689. doi:[10.1093/nar/gkad960](https://doi.org/10.1093/nar/gkad960)
+
+Serrano, B. A., Gheorghe, L. C., Exner, T. E., Resch, S., Wolf, C., Himly, M., Falk, A., Bossa, N., Vazquez, S., Papadiamantis, A. G., Afantitis, A., Melagraki, G., Maier, D., Saramveis, H., **Willighagen, E.**, Lobaskin, V., Oldfield, J. D., & Lynch, I. (2024). The role of FAIR nanosafety data and nanoinformatics in achieving the UN sustainable development goals: the NanoCommons experience. *RSC Sustainability*, *2*(5), 1378–1399. doi:[10.1039/d3su00148b](https://doi.org/10.1039/d3su00148b)
+
+Jeliazkova, N., Longhin, E., El Yamani, N., Rundén-Pran, E., Moschini, E., Serchi, T., Vrček, I. V., Burgum, M. J., Doak, S. H., Cimpan, M. R., Rios-Mondragon, I., Cimpan, E., Battistelli, C. L., Bossa, C., Tsekovska, R., Drobne, D., Novak, S., Repar, N., Ammar, A., … Dusinska, M. (2024). A template wizard for the cocreation of machine-readable data-reporting to harmonize the evaluation of (nano)materials. *Nature Protocols*, *19*(9), 2642–2684. doi:[10.1038/s41596-024-00993-1](https://doi.org/10.1038/s41596-024-00993-1)
+
+Niarakis, A., Ostaszewski, M., Mazein, A., Kuperstein, I., Kutmon, M., Gillespie, M. E., Funahashi, A., Acencio, M. L., Hemedan, A., Aichem, M., Klein, K., Czauderna, T., Burtscher, F., Yamada, T. G., Hiki, Y., Hiroi, N. F., Hu, F., Pham, N., Ehrhart, F., … Schneider, R. (2024). Drug-target identification in COVID-19 disease mechanisms using computational systems biology approaches. *Frontiers in Immunology*, *14*. doi:[10.3389/fimmu.2023.1282859](https://doi.org/10.3389/fimmu.2023.1282859)
+
 Ammar, A., Evelo, C., & **Willighagen, E.** (2024). FAIR assessment of nanosafety data reusability with community standards. *Scientific Data*, *11*(1). doi:[10.1038/s41597-024-03324-x](https://doi.org/10.1038/s41597-024-03324-x)
 
 Slenter, D., Kutmon, M., Evelo, C. T., & **Willighagen, E. L.** (2024). Discovering life’s directed metabolic (sub)paths to interpret human biochemical markers using the DSMN tool. *Digital Discovery*, *3*(1), 81–98. doi:[10.1039/d3dd00069a](https://doi.org/10.1039/d3dd00069a)
@@ -79,6 +90,8 @@ Van Rijn, J. P. M., Martens, M., Ammar, A., Cimpan, M. R., Fessard, V., Hoet, P.
 Bernabé, C. H., Thielemans, L., Kaliyaperumal, R., Carta, C., Zhang, S., van Gelder, C. W. G., Benis, N., da Silva Santos, L. O. B., Cornet, R., dos Santos Vieira, B., Lalout, N., Henriques, I., Ballesteros, A. C., Burger, K., Kersloot, M. G., Ehrhart, F., van Enckevort, E., Evelo, C. T., Gray, A. J. G., …, **Willighagen E. L.**, Jansen, M., Mons, B., Roos, M., Jacobsen, A. (2024). Building Expertise on FAIR Through Evolving Bring Your Own Data (BYOD) Workshops: Describing the Data, Software, and Management-focused Approaches and Their Evolution. *Data Intelligence*, *6*(2), 429–456. doi:[10.1162/dint_a_00236](https://doi.org/10.1162/dint_a_00236)
 
 Murugadoss, S., Vinković Vrček, I., Schaffert, A., Paparella, M., Pem, B., Sosnowska, A.,  Stępnik, M., Martens, M., **Willighagen, E. L.**, Puzyn, T., Roxana Cimpan, M., Lemaire, F., Mertens, B., Dusinska, M., Fessard, V., Hoet, P.H.. Linking nanomaterial-induced mitochondrial dysfunction to existing adverse outcome pathways for chemicals. (2024). *ALTEX*, *41*(1). doi:[10.14573/altex.2305011](https://doi.org/10.14573/altex.2305011)
+
+Groenewold, M., Bleeker, E. A. J., Noorlander, C. W., Sips, A. J. A. M., van der Zee, M., Aitken, R. J., Baker, J. H., Bakker, M. I., Bouman, E. A., Doak, S. H., Drobne, D., Dumit, V. I., Florin, M.-V., Fransman, W., Gonzalez, M. M., Heunisch, E., Isigonis, P., Jeliazkova, N., Jensen, K. A., … Scott-Fordsmand, J. J. (2024). Governance of advanced materials: Shaping a safe and sustainable future. *NanoImpact*, *35*, 100513. doi:[10.1016/j.impact.2024.100513](https://doi.org/10.1016/j.impact.2024.100513)
 
 `2023`
 Martens, M., Stierum, R., Schymanski, E. L., Evelo, C. T., Aalizadeh, R., Aladjov, H., Arturi, K., Audouze, K., Babica, P., Berka, K., Bessems, J., Blaha, L., Bolton, E. E., Cases, M., Damalas, D. Ε., Dave, K., Dilger, M., Exner, T., Geerke, D. P., … **Willighagen, E. L.** (2023). ELIXIR and Toxicology: a community in development. *F1000Research*, *10*, 1129. doi:[10.12688/f1000research.74502.2](https://doi.org/10.12688/f1000research.74502.2)
