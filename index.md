@@ -70,9 +70,38 @@ University*, Cologne, Germany.
 Scientific publications in international journals with a referee system.
 
 `2024`
-Bernabé, C. H., Thielemans, L., Kaliyaperumal, R., Carta, C., Zhang, S., van Gelder, C. W. G., Benis, N., da Silva Santos, L. O. B., Cornet, R., dos Santos Vieira, B., Lalout, N., Henriques, I., Ballesteros, A. C., Burger, K., Kersloot, M. G., Ehrhart, F., van Enckevort, E., Evelo, C. T., Gray, A. J. G., …, **Willighagem E. L.**, Jansen, M., Mons, B., Roos, M., Jacobsen, A. (2024). Building Expertise on FAIR Through Evolving Bring Your Own Data (BYOD) Workshops: Describing the Data, Software, and Management-focused Approaches and Their Evolution. *Data Intelligence*, *6*(2), 429–456. doi:[10.1162/dint_a_00236](https://doi.org/10.1162/dint_a_00236)
+Ammar, A., Evelo, C., & **Willighagen, E.** (2024). FAIR assessment of nanosafety data reusability with community standards. *Scientific Data*, *11*(1). doi:[10.1038/s41597-024-03324-x](https://doi.org/10.1038/s41597-024-03324-x)
+
+Slenter, D., Kutmon, M., Evelo, C. T., & **Willighagen, E. L.** (2024). Discovering life’s directed metabolic (sub)paths to interpret human biochemical markers using the DSMN tool. *Digital Discovery*, *3*(1), 81–98. doi:[10.1039/d3dd00069a](https://doi.org/10.1039/d3dd00069a)
+
+Van Rijn, J. P. M., Martens, M., Ammar, A., Cimpan, M. R., Fessard, V., Hoet, P., Jeliazkova, N., Murugadoss, S., Vinković Vrček, I., & **Willighagen, E. L.** (2024). From papers to RDF-based integration of physicochemical data and adverse outcome pathways for nanomaterials. *Journal of Cheminformatics*, *16*(1). doi:[10.1186/s13321-024-00833-0](https://doi.org/10.1186/s13321-024-00833-0)
+
+Bernabé, C. H., Thielemans, L., Kaliyaperumal, R., Carta, C., Zhang, S., van Gelder, C. W. G., Benis, N., da Silva Santos, L. O. B., Cornet, R., dos Santos Vieira, B., Lalout, N., Henriques, I., Ballesteros, A. C., Burger, K., Kersloot, M. G., Ehrhart, F., van Enckevort, E., Evelo, C. T., Gray, A. J. G., …, **Willighagen E. L.**, Jansen, M., Mons, B., Roos, M., Jacobsen, A. (2024). Building Expertise on FAIR Through Evolving Bring Your Own Data (BYOD) Workshops: Describing the Data, Software, and Management-focused Approaches and Their Evolution. *Data Intelligence*, *6*(2), 429–456. doi:[10.1162/dint_a_00236](https://doi.org/10.1162/dint_a_00236)
+
+Murugadoss, S., Vinković Vrček, I., Schaffert, A., Paparella, M., Pem, B., Sosnowska, A.,  Stępnik, M., Martens, M., **Willighagen, E. L.**, Puzyn, T., Roxana Cimpan, M., Lemaire, F., Mertens, B., Dusinska, M., Fessard, V., Hoet, P.H.. Linking nanomaterial-induced mitochondrial dysfunction to existing adverse outcome pathways for chemicals. (2024). *ALTEX*, *41*(1). doi:[10.14573/altex.2305011](https://doi.org/10.14573/altex.2305011)
+
+`2023`
+Martens, M., Stierum, R., Schymanski, E. L., Evelo, C. T., Aalizadeh, R., Aladjov, H., Arturi, K., Audouze, K., Babica, P., Berka, K., Bessems, J., Blaha, L., Bolton, E. E., Cases, M., Damalas, D. Ε., Dave, K., Dilger, M., Exner, T., Geerke, D. P., … **Willighagen, E. L.** (2023). ELIXIR and Toxicology: a community in development. *F1000Research*, *10*, 1129. doi:[10.12688/f1000research.74502.2](https://doi.org/10.12688/f1000research.74502.2)
+
+Mullowney, M. W., Duncan, K. R., Elsayed, S. S., Garg, N., van der Hooft, J. J. J., Martin, N. I., Meijer, D., Terlouw, B. R., Biermann, F., Blin, K., Durairaj, J., Gorostiola González, M., Helfrich, E. J. N., Huber, F., Leopold-Messer, S., Rajan, K., de Rond, T., van Santen, J. A., Sorokina, M., … Medema, M. H. (2023). Artificial intelligence for natural product drug discovery. *Nature Reviews Drug Discovery*, *22*(11), 895–916. doi:[10.1038/s41573-023-00774-7](https://doi.org/10.1038/s41573-023-00774-7)
+
+Furxhi, I., **Willighagen, E.**, Evelo, C., Costa, A., Gardini, D., & Ammar, A. (2023). A data reusability assessment in the nanosafety domain based on the NSDRA framework followed by an exploratory quantitative structure activity relationships (QSAR) modeling targeting cellular viability. *NanoImpact*, *31*, 100475. doi:[10.1016/j.impact.2023.100475](https://doi.org/10.1016/j.impact.2023.100475)
+
+Ammar, A., Cavill, R., Evelo, C., & **Willighagen, E.** (2023). PSnpBind-ML: predicting the effect of binding site mutations on protein-ligand binding affinity. *Journal of Cheminformatics*, *15*(1). doi:[10.1186/s13321-023-00701-3](https://doi.org/10.1186/s13321-023-00701-3)
+
+Rocca-Serra, P., Gu, W., Ioannidis, V., Abbassi-Daloii, T., Capella-Gutierrez, S., Chandramouliswaran, I., Splendiani, A., Burdett, T., Giessmann, R. T., Henderson, D., Batista, D., Emam, I., Gadiya, Y., Giovanni, L., **Willighagen, E.**, Evelo, C., Gray, A. J. G., Gribbon, P., Juty, N., … Sansone, S.-A. (2023). The FAIR Cookbook - the essential resource for and by FAIR doers. *Scientific Data*, *10*(1). doi:[10.1038/s41597-023-02166-3](https://doi.org/10.1038/s41597-023-02166-3)
+
+Slenter, D. N., Hemel, I. M. G. M., Evelo, C. T., Bierau, J., **Willighagen, E. L.**, & Steinbusch, L. K. M. (2023). Extending inherited metabolic disorder diagnostics with biomarker interaction visualizations. *Orphanet Journal of Rare Diseases*, *18*(1). doi:[10.1186/s13023-023-02683-9](https://doi.org/10.1186/s13023-023-02683-9)
 
 `2022`
+Ammar, A., Cavill, R., Evelo, C., & **Willighagen, E.** (2022). PSnpBind: a database of mutated binding site protein–ligand complexes constructed using a multithreaded virtual screening workflow. *Journal of Cheminformatics*, *14*(1). doi:[10.1186/s13321-021-00573-5](https://doi.org/10.1186/s13321-021-00573-5)
+
+Hoyt, C. T., Balk, M., Callahan, T. J., Domingo-Fernández, D., Haendel, M. A., Hegde, H. B., Himmelstein, D. S., Karis, K., Kunze, J., Lubiana, T., Matentzoglu, N., McMurry, J., Moxon, S., Mungall, C. J., Rutz, A., Unni, D. R., **Willighagen, E.**, Winston, D., & Gyori, B. M. (2022). Unifying the identification of biomedical entities with the Bioregistry. *Scientific Data*, *9*(1). doi:[10.1038/s41597-022-01807-3](https://doi.org/10.1038/s41597-022-01807-3)
+
+Mohammed Taha, H., Aalizadeh, R., Alygizakis, N., Antignac, J.-P., Arp, H. P. H., Bade, R., Baker, N., Belova, L., Bijlsma, L., Bolton, E. E., Brack, W., Celma, A., Chen, W.-L., Cheng, T., Chirsir, P., Čirka, Ľ., D’Agostino, L. A., Djoumbou Feunang, Y., Dulio, V., … Schymanski, E. L. (2022). The NORMAN Suspect List Exchange (NORMAN-SLE): facilitating European and worldwide collaboration on suspect screening in high resolution mass spectrometry. *Environmental Sciences Europe*, *34*(1). doi:[10.1186/s12302-022-00680-6](https://doi.org/10.1186/s12302-022-00680-6)
+
+Sinclair, G., Thillainadarajah, I., Meyer, B., Samano, V., Sivasupramaniam, S., Adams, L., **Willighagen, E. L.**, Richard, A. M., Walker, M., & Williams, A. J. (2022). Wikipedia on the CompTox Chemicals Dashboard: Connecting Resources to Enrich Public Chemical Data. *Journal of Chemical Information and Modeling*, *62*(20), 4888–4905. doi:[10.1021/acs.jcim.2c00886](https://doi.org/10.1021/acs.jcim.2c00886)
+
 Jacobs, A., Williams, D., Hickey, K., Patrick, N., Williams, A. J., Chalk, S., McEwen, L., **Willighagen, E.**, Walker, M., Bolton, E., Sinclair, G., & Sanford, A. (2022). CAS Common Chemistry in 2021: Expanding Access to Trusted Chemical Information for the Scientific Community. *Journal of Chemical Information and Modeling*, *62*(11), 2737–2743. doi:[10.1021/acs.jcim.2c00268](https://doi.org/10.1021/acs.jcim.2c00268)
 
 Krans, N. A., Ammar, A., Nymark, P., **Willighagen, E. L.**, Bakker, M. I., & Quik, J. T. K. (2022). FAIR assessment tools: evaluating use and performance. *NanoImpact*, *27*, 100402. doi:[10.1016/j.impact.2022.100402](https://doi.org/10.1016/j.impact.2022.100402)
