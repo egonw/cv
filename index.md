@@ -636,6 +636,62 @@ Bio.tools project; $\sim$5 kEuro).
 `2007`
 **GDCh-Wissenschaftsforum Chemie 2007**. Ulm, Germany
 
+## Memberships
+
+`1993-???,???-present`
+**KNCV**
+
+`2023-2024`
+**American Chemical Society**
+
+## Professional service
+
+### Scientific committees
+
+`2024-present`
+Titular Member, International Union of Pure and Applied Chemistry, CPCDS
+
+`2023-present`
+Advisor Board Member, The Netherlands Reproducibility Network
+
+`2022-present`
+Advisory Board Member, NFDI4Chem
+
+`2022-present`
+Founder of the Open Science Community Maastricht
+
+`2014-present`
+Board Member, Stichting Chemische Congressen 6
+
+`2020-2022`
+Scientific Advisor, International Advisory Board of the NanoFabNet Project
+
+`2018-2024`
+Working Group Chair, Database Working Group, EU NanoSafety Cluster
+
+`2013-2026`
+Working Group Chair, Database Working Group, EU NanoSafety Cluster
+
+### Editorial Boards
+
+`2025-present`
+Guest-editor, Journal of Cheminformatics (Springer Nature. Top10 journal)
+
+`2016-2021`
+Editor-in-Chief, Journal of Cheminformatics (Springer Nature. Top10 journal)
+
+`2010`
+Guest-editor, Journal of Cheminformatics (Springer Nature. Top10 journal)
+
+`2009-2016`
+Invited Expert, World Wide Web Consortium (W3C)
+
+`2009-2011`
+CINF Programming Committee Member, American Chemical Society
+
+`2007-2011`
+Advisor, ChemSpider.com Advisory Group
+
 ## Media
 
 ### Opinions
@@ -687,14 +743,6 @@ Wendy Degens, Cleo Freriks, Maurice Timmermans, **“I see bright researchers le
 
 `2021`
 **Niets afschaffen, wel verbreden**, NWO Magazine (2021) [https://www.nwo.nl/niets-afschaffen-wel-verbreden](https://www.nwo.nl/niets-afschaffen-wel-verbreden)
-
-## Memberships
-
-`1993-???,???-present`
-**KNCV**
-
-`2023-2024`
-**American Chemical Society**
 
 ## Languages
 
