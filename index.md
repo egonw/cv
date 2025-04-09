@@ -425,6 +425,21 @@ J-C. Bradley, R. Guha, A. Lang, P. Lindenbaum, C. Neylon, A. Williams,
 Stories Behind Elegant Data Solutions, O’Reilly Media, Inc., Sebastopol,
 US, Ch. 16, ISBN: 0-596-15711-8, 2009.
 
+### Editorials
+
+Guha, R., **Willighagen, E.**, Zdrazil, B., & Jeliazkova, N. (2021). What is the role of cheminformatics in a pandemic? *Journal of Cheminformatics*, *13*(1). doi:[10.1186/s13321-021-00491-6](https://doi.org/10.1186/s13321-021-00491-6)
+
+Guha, R., & **Willighagen, E.** (2020). Learning cheminformatics. *Journal of Cheminformatics*, *12*(1). doi:[10.1186/s13321-019-0406-z](https://doi.org/10.1186/s13321-019-0406-z)
+
+**Willighagen, E.** (2020). Adoption of the Citation Typing Ontology by the Journal of Cheminformatics. *Journal of Cheminformatics*, *12*(1). doi:[10.1186/s13321-020-00448-1](https://doi.org/10.1186/s13321-020-00448-1)
+
+**Willighagen, E.**, Jeliazkova, N., & Guha, R. (2019). Journal of Cheminformatics, ORCID, and GitHub. *Journal of Cheminformatics*, *11*(1). doi:[10.1186/s13321-019-0365-4](https://doi.org/10.1186/s13321-019-0365-4)
+
+Guha, R., & **Willighagen, E.** (2017). Helping to improve the practice of cheminformatics. *Journal of Cheminformatics*, *9*(1). doi:[10.1186/s13321-017-0217-z](https://doi.org/10.1186/s13321-017-0217-z)
+
+**Willighagen, E. L.**, & Brändle, M. P. (2011). Resource description framework technologies in chemistry. *Journal of Cheminformatics*, *3*(1). doi:[10.1186/1758-2946-3-15](https://doi.org/10.1186/1758-2946-3-15)
+
+
 ## Teaching experience
 
 ### C-roles
