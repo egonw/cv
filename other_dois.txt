@@ -1,0 +1,14 @@
+# Qeios definitions
+
+"10.32388/znwi7t.2",
+"10.32388/znwi7t.1",
+
+# reports
+
+"10.6084/m9.figshare.4725424.v1",
+"10.6084/m9.figshare.1195888",
+
+# other
+
+"10.15200/winn.142867.72538",
+

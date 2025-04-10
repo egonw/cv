@@ -5,7 +5,7 @@ require('@citation-js/plugin-doi')
 require('@citation-js/plugin-csl')
 
 articles = [
-"10.1186/s13321-021-00521-3",
+"10.1093/bioinformatics/btq476",
 ]
 
 // Parse input

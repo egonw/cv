@@ -278,7 +278,7 @@ Kuhn, T., **Willighagen, E. L.**, Zielesny, A., & Steinbeck, C. (2010). CDK-Tave
 
 Spjuth, O., **Willighagen, E. L.**, Guha, R., Eklund, M., & Wikberg, J. E. (2010). Towards interoperable and reproducible QSAR analyses: Exchange of datasets. *Journal of Cheminformatics*, *2*(1). doi:[10.1186/1758-2946-2-5](https://doi.org/10.1186/1758-2946-2-5)
 
-Wohlgemuth, G., Haldiya, P. K., **Willighagen, E.**, Kind, T., & Fiehn, O. (2010). The Chemical Translation Service—a web-based tool to improve standardization of metabolomic reports. *Bioinformatics*, *26*(20), 2647–2648. doi:[bioinformatics/btq476](https://doi.org/10.1093/bioinformatics/btq476)
+Wohlgemuth, G., Haldiya, P. K., **Willighagen, E.**, Kind, T., & Fiehn, O. (2010). The Chemical Translation Service—a web-based tool to improve standardization of metabolomic reports. *Bioinformatics*, *26*(20), 2647–2648. doi:[10.1093/bioinformatics/btq476](https://doi.org/10.1093/bioinformatics/btq476)
 
 `2009`
 Spjuth, O., Alvarsson, J., Berg, A., Eklund, M., Kuhn, S., Mäsak, C., Torrance, G., Wagener, J., **Willighagen, E. L.**, Steinbeck, C., & Wikberg, J. E. (2009). Bioclipse 2: A scriptable integration platform for the life sciences. *BMC Bioinformatics*, *10*(1). doi:[10.1186/1471-2105-10-397](https://doi.org/10.1186/1471-2105-10-397)
@@ -394,7 +394,7 @@ D.N. Slenter, M. Kutmon, **E.L. Willighagen**, *WikiPathways: Integrating
 Pathway Knowledge with Clinical Data*, in: N. Blau, C. Dionisi Vici, C.R.
 Ferreira, C. Vianey-Saban, C.D.M. van Karnebeek (Eds.), Physician’s Guide to
 the Diagnosis, Treatment, and Follow-Up of Inherited Metabolic Diseases,
-Springer International Publishing, UK, Ch. 73, 2022.
+Springer International Publishing, UK, Ch. 73, 2022. doi:[10.1007/978-3-030-67727-5_73](https://doi.org/10.1007/978-3-030-67727-5_73)
 
 A.J. Williams, S. Ekins, O. Spjuth, **E. Willighagen**, *Acessing, Using, and
 Creating Chemical Property Databases for Computational Toxicology Modeling*,
@@ -405,7 +405,7 @@ O. Spjuth, *Interactive Predictive Toxicology with Bioclipse and OpenTox*, In:
 Open Source Software in Life Science Research: Practical Solutions to
 Common Challenges in the Pharmaceutical Industry and Beyond, Ed. L. 
 Harland, M. Forster, Biohealthcare Publishing Ltd, Oxford, UK, Ch. 2, ISBN:
-1-907-568972, 2012.
+1-907-568972, 2012. doi:[10.1533/9781908818249.35](https://doi.org/10.1533/9781908818249.35)
 
 B. Hardy, A. Affentranger, E. Benfenati, N. Jeliazkova, V. Jeliazkov, G. My-
 att, J. Wiseman, G. Stacey, R. Grafström, **E. Willighagen**, C. Helma, *ToxBank:
@@ -420,7 +420,7 @@ Inc., Hoboken, USA, ISBN: 9-780-470-63803-3, 2011. doi:[10.1002/9781118026038.ch
 
 **E. Willighagen**, *3D Molecular Representations, In Handbook of Cheminformatics
 Algorithms*, Ed. Faulon, J-P. and Bender, A., CRC Press, New York,
-US, Ch. 3. ISBN: 1-420-08292-2, 2010.
+US, Ch. 3. ISBN: 1-420-08292-2, 2010. doi:[10.1201/9781420082999-c3](https://doi.org/10.1201/9781420082999-c3)
 
 J-C. Bradley, R. Guha, A. Lang, P. Lindenbaum, C. Neylon, A. Williams,
 **E. Willighagen**, *Beautifying Data in the Real World*. In: Beautiful Data - The
