@@ -327,7 +327,9 @@ Scientific publication as a book or as a contribution to a book including procee
 
 ### Books
 
-**E. Willighagen**, Groovy Cheminformatics with the Chemistry Development Kit, Lulu.com, 2011 (now as [free and open access eBook](https://cdk.github.io/cdkbook/)).
+Addshore, D. Mietchen, **E. Willighagen**, Wikidata Queries around the SARS-CoV-2 virus and pandemic. 2020 ([free ebook](https://egonw.github.io/SARS-CoV-2-Queries/)). doi:[10.5281/zenodo.3977414](https://doi.org/10.5281/zenodo.3977414)
+
+**E. Willighagen**, Groovy Cheminformatics with the Chemistry Development Kit, Lulu.com, 2011 (now as [free and open access ebook](https://cdk.github.io/cdkbook/)).
 
 J. Wikberg, M. Eklund, **E. Willighagen**, O. Spjuth, M. Lapins, O. Engkvist,
 J. Alvarsson, Introduction to Pharmaceutical Bioinformatics. Oakleaf Academic, Stockholm, Sweden. ISBN: 9-789-19794030-6, 2010.
