@@ -464,6 +464,9 @@ Track coordinator, **BMW2007: Bioinformatics and Systems Biology**. Maastricht U
 
 ### B-roles
 
+`2016-2024`
+Course planning group, **HZuyd Bioinformatics**. Hoge School Zuyd.
+
 `2016-2022`
 Block planning group member, **BBS1001: Building Blocks of Life**. Maastricht University
 
@@ -475,14 +478,29 @@ Teacher, **Homology Modelling**. CUBIC, Cologne University
 
 ### A-roles
 
+`2021-present`
+Workshop assistant, **BBS1001: Building Blocks of Life**. Maastricht University
+
+`2020-present`
+Lecturer, **MBS1101: Advanced Principles of Genetics & Genomics**. Maastricht University
+
+`2018-present`
+Lecturer, **MSB: Systems Biology**. Maastricht University
+
+`2018-present`
+Assessor, **BBS3006: Thesis Bachelor Biomedical Sciences**. Maastricht University
+
+`2020-2021`
+Lecturer, **BBS3011: Global differences in diseases and treatment**. Maastricht University
+
 `2016-present`
-**Mentor Year 1-3, Biomedical Sciences**. Maastricht University
+**BBS-MEN: Mentor Bachelor Biomedical Sciences**. Maastricht University
 
 `2015-2016`
 **Mentor Year 1, Biomedical Sciences**. Maastricht University
 
-`2014-2019`
-Problem-based Learning (PBL) **Tutor, Biomedical Sciences**. Maastricht University
+`2014-2018`
+Tutor Problem-based Learning (PBL) **Biomedical Sciences, BBS1001 and others**. Maastricht University
 
 ## Thesis promotorship and supervision
 
