@@ -23,7 +23,7 @@ Assistant professor, Maastricht University.
 ## Education
 
 `2002-2008`
-**Ph.D., Chemistry**, Representation of Molecules and Molecular Systems in Data Analysis and Modeling, *Raboud University*, Nijmegen, The Netherlands. <i class="fa-solid fa-building-columns"></i> [isbn:9789090228068](https://hdl.handle.net/2066/72267)
+**Ph.D., Chemistry**, Representation of Molecules and Molecular Systems in Data Analysis and Modeling, *Radboud University*, Nijmegen, The Netherlands. <i class="fa-solid fa-building-columns"></i> [isbn:9789090228068](https://hdl.handle.net/2066/72267)
 
 `1993-2001`
 **M.Sc., Chemistry**, *University of Nijmegen*, Nijmegen, The Netherlands
@@ -101,6 +101,8 @@ Mullowney, M. W., Duncan, K. R., Elsayed, S. S., Garg, N., van der Hooft, J. J. 
 Furxhi, I., **Willighagen, E.**, Evelo, C., Costa, A., Gardini, D., & Ammar, A. (2023). A data reusability assessment in the nanosafety domain based on the NSDRA framework followed by an exploratory quantitative structure activity relationships (QSAR) modeling targeting cellular viability. *NanoImpact*, *31*, 100475. doi:[10.1016/j.impact.2023.100475](https://doi.org/10.1016/j.impact.2023.100475)
 
 Ammar, A., Cavill, R., Evelo, C., & **Willighagen, E.** (2023). PSnpBind-ML: predicting the effect of binding site mutations on protein-ligand binding affinity. *Journal of Cheminformatics*, *15*(1). doi:[10.1186/s13321-023-00701-3](https://doi.org/10.1186/s13321-023-00701-3)
+
+**Willighagen, E.** (2023). Two years of explicit CiTO annotations. *Journal of Cheminformatics*, *15*(1). doi:[10.1186/s13321-023-00683-2](https://doi.org/10.1186/s13321-023-00683-2)
 
 Rocca-Serra, P., Gu, W., Ioannidis, V., Abbassi-Daloii, T., Capella-Gutierrez, S., Chandramouliswaran, I., Splendiani, A., Burdett, T., Giessmann, R. T., Henderson, D., Batista, D., Emam, I., Gadiya, Y., Giovanni, L., **Willighagen, E.**, Evelo, C., Gray, A. J. G., Gribbon, P., Juty, N., … Sansone, S.-A. (2023). The FAIR Cookbook - the essential resource for and by FAIR doers. *Scientific Data*, *10*(1). doi:[10.1038/s41597-023-02166-3](https://doi.org/10.1038/s41597-023-02166-3)
 
@@ -429,6 +431,8 @@ US, Ch. 16, ISBN: 0-596-15711-8, 2009.
 
 Guha, R., **Willighagen, E.**, Zdrazil, B., & Jeliazkova, N. (2021). What is the role of cheminformatics in a pandemic? *Journal of Cheminformatics*, *13*(1). doi:[10.1186/s13321-021-00491-6](https://doi.org/10.1186/s13321-021-00491-6)
 
+Guha, R., Jeliazkova, N., **Willighagen, E.**, & Zdrazil, B. (2021). Reply to “FAIR chemical structure in the Journal of Cheminformatics.” *Journal of Cheminformatics*, *13*(1). doi:[10.1186/s13321-021-00521-3](https://doi.org/10.1186/s13321-021-00521-3)
+
 Guha, R., & **Willighagen, E.** (2020). Learning cheminformatics. *Journal of Cheminformatics*, *12*(1). doi:[10.1186/s13321-019-0406-z](https://doi.org/10.1186/s13321-019-0406-z)
 
 **Willighagen, E.** (2020). Adoption of the Citation Typing Ontology by the Journal of Cheminformatics. *Journal of Cheminformatics*, *12*(1). doi:[10.1186/s13321-020-00448-1](https://doi.org/10.1186/s13321-020-00448-1)
@@ -546,7 +550,7 @@ EFSA. Sum: ?? k€, UM: 276 k€. *Co-PI with Tooba Abbassi-Daloii and Marvin Ma
 Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272). Sum: 10.4 M€, UM: ?? k€. *Co-PI with Chris Evelo*.
 
 `2024-2025`
-**Chemistry Development Kit 2024**. <!-- Coordinator: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO). Sum: 50 k€, Person: 25 k€. *Sole PI*.
+**Chemistry Development Kit 2024**. <!-- Coordinator: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO). Sum: 50 k€, Person: 25 k€. *Sole PI*. doi:[10.3897/rio.10.e124884](https://doi.org/10.3897/rio.10.e124884)
 
 `2022-2023`
 **Lipid Pathway Curation**. <!-- Coordinator: Cardiff University. Other: UM -->
@@ -554,7 +558,7 @@ ELIXIR Europe. Sum: ?? k€, UM: 5.7 k€. *Co-PI with Denise Slenter*.
 
 `2022-2023`
 **BridgeDb and Wikidata: a powerful combination generating interoperable open research**, <!-- Coordinator: UM. -->
-Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 203.001.121](https://www.nwo.nl/en/projects/203001121). Sum: 50 k€, UM: 50 k€. *Sole PI*.
+Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 203.001.121](https://www.nwo.nl/en/projects/203001121). Sum: 50 k€, UM: 50 k€. *Sole PI*. doi:[10.3897/rio.8.e83031](https://doi.org/10.3897/rio.8.e83031)
 
 `2020-2024`
 **Computing infrastructure for the definition, performance testing and implementation of safe-by-design approaches in nanotechnology supply chains (SbD4nano)**, <!-- Coordinator: ITENE. Other: UM -->
@@ -562,7 +566,7 @@ European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 862195](h
 
 `2019-2021`
 **Scholia**, <!-- Coordinator: University of Virginia. Other: UM -->
-Alfred P. Sloan Foundation. [<i class="fa-regular fa-money-bill-1"></i> G-2019-11458](https://sloan.org/grant-detail/g-2019-11458). Sum: 496 k€, UM: 75 k€. *Sole PI*.
+Alfred P. Sloan Foundation. [<i class="fa-regular fa-money-bill-1"></i> G-2019-11458](https://sloan.org/grant-detail/g-2019-11458). Sum: 496 k€, UM: 75 k€. *Sole PI*. doi:[10.3897/rio.5.e35820]https://doi.org/10.3897/rio.5.e35820)
 
 `2019-2023`
 **Risk Governance of Nanotechnology (RiskGONE)**, <!-- Coordinator: NILU. Other: UM -->
