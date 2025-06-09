@@ -59,7 +59,7 @@ University*, Cologne, Germany.
 
 ## Publications
 
-**Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 51.
+**Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 52.
 
 **Web of Science** H-index: 41. Citations: 7,248 (without self: 6,896). Highly Cited Papers: 8. Citations per article: 51.04
 
@@ -557,6 +557,14 @@ in cheminformatics.
 
 ### Research grants
 
+`2025-present`
+**FAIR4ChemNL: Accelerating the adoption of universal data standards in chemistry** <!-- Coordinator: Delft University. Other: UM, a few others. -->
+Dutch Research Council (NWO) / TDCC-NES. Sum: 400 k€, Person: ?? k€. *Sole PI*.
+
+`2025-present`
+**FAIRify your metabolomics data: achieving convergence on standards for reuse-ready data and workflows (FAIRify)** <!-- Coordinator: Leiden University. Other: UM, a few others. -->
+Dutch Research Council (NWO) / TDCC-LSH. Sum: ? k€, Person: ?? k€. *Sole PI*.
+
 `2024-present`
 **INTOXICOM Implementation Study**. <!-- Coordinator: UM. Other: . -->
 ELIXIR Europe. Sum: 59 k€, Person: ?? k€. *Co-PI with Marvin Martens*
@@ -567,7 +575,7 @@ EFSA. Sum: ?? k€, UM: 276 k€. *Co-PI with Tooba Abbassi-Daloii and Marvin Ma
 
 `2012-present`
 **The Virtual Human Platform for Safety Assessment**. 
-Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272). Sum: 10.4 M€, UM: ?? k€. *Co-PI with Chris Evelo*.
+Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272). Sum: 10.4 M€, UM: 1.38 M€. *Co-PI with Chris Evelo*.
 
 `2024-2025`
 **Chemistry Development Kit 2024**. <!-- Coordinator: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO). Sum: 50 k€, Person: 25 k€. *Sole PI*. doi:[10.3897/rio.10.e124884](https://doi.org/10.3897/rio.10.e124884)
@@ -776,4 +784,4 @@ Advanced: English
 
 Basic: German
 
-<br/>Last updated: April 2025<br/><br/>
+<br/>Last updated: May 2025<br/><br/>
