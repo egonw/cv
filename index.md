@@ -61,7 +61,7 @@ University*, Cologne, Germany.
 
 **Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 52.
 
-**Web of Science** H-index: 41. Citations: 7,248 (without self: 6,896). Highly Cited Papers: 8. Citations per article: 51.04
+**Web of Science** H-index: 41. Citations: 7,505 (without self: 7,149). Highly Cited Papers: 8. Citations per article: 51.04
 
 **NIH iCite**: Mean RCR: 3.26. Articles in NIH Top 1%: 5, Top 10%: 16
 
