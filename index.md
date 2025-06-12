@@ -573,8 +573,8 @@ ELIXIR Europe. Sum: 59 k€, Person: ?? k€. *Co-PI with Marvin Martens*
 **TGX-MAP: Transcriptomics in Risk Assessment**. <!-- Coordinator: Leiden University. Other: UM, a few more. -->
 EFSA. Sum: ?? k€, UM: 276 k€. *Co-PI with Tooba Abbassi-Daloii and Marvin Martens*.
 
-`2012-present`
-**The Virtual Human Platform for Safety Assessment**. 
+`2022-present`
+**The Virtual Human Platform for Safety Assessment (VHP4Safety)**. 
 Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272). Sum: 10.4 M€, UM: 1.38 M€. *Co-PI with Chris Evelo*.
 
 `2024-2025`
