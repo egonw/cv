@@ -506,6 +506,9 @@ Tutor Problem-based Learning (PBL) **Biomedical Sciences, BBS1001 and others**. 
 
 ### Ph.D. co-promotor
 
+`2020-2025`
+**Ammar Ammar**, Maastricht University. <i class="fa-solid fa-building-columns"></i> [10.26481/dis.20250702aa](https://doi.org/10.26481/dis.20250702aa)
+
 `2017-2024`
 **Denise Slenter**, Maastricht University. <i class="fa-solid fa-building-columns"></i> [10.26481/dis.20240624ds](https://doi.org/10.26481/dis.20240624ds)
 
@@ -528,9 +531,6 @@ Tutor Problem-based Learning (PBL) **Biomedical Sciences, BBS1001 and others**. 
 
 `2022-present`
 **Javier Millán Acosta**, Maastricht University.
-
-`2020-2025`
-**Ammar Ammar**, Maastricht University.
 
 ## Awards and honors
 
