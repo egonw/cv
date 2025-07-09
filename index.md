@@ -26,7 +26,7 @@ Assistant professor, Maastricht University.
 **Ph.D., Chemistry**, Representation of Molecules and Molecular Systems in Data Analysis and Modeling, *Radboud University*, Nijmegen, The Netherlands. <i class="fa-solid fa-building-columns"></i> [isbn:9789090228068](https://hdl.handle.net/2066/72267)
 
 `1993-2001`
-**M.Sc., Chemistry**, *University of Nijmegen*, Nijmegen, The Netherlands
+**Drs., Chemistry**, *University of Nijmegen*, Nijmegen, The Netherlands
 
 ## Experience
 
@@ -527,10 +527,10 @@ Tutor Problem-based Learning (PBL) **Biomedical Sciences, BBS1001 and others**. 
 **Sidra Adil**, Maastricht University.
 
 `2022-present`
-**Jente Houweling**, Maastricht University.
-
-`2022-present`
 **Javier Millán Acosta**, Maastricht University.
+
+`2021-present`
+**Jente Houweling**, external PhD RIVM / Maastricht University.
 
 ## Awards and honors
 
@@ -798,4 +798,4 @@ Advanced: English
 
 Basic: German
 
-<br/>Last updated: Juli 2025<br/><br/>
+<br/>Last updated: July 2025<br/><br/>
