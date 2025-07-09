@@ -536,10 +536,12 @@ Tutor Problem-based Learning (PBL) **Biomedical Sciences, BBS1001 and others**. 
 
 `2021`
 **Runner Up Prize, Open Initiatives Trophies**
-From the jury-report: *"Egon is someone with high standards who really tries to
+From the [jury-report](https://web.archive.org/web/20210622044429/https://opensciencefestival.nl/the-open-initiative-trophies/):
+*"Egon is someone with high standards who really tries to
 hold himself accountable to these as well. He is not afraid to point his finger at
 the elephant in the room. We need people like Egon as a long time driving force
 for cultural change."*
+<!-- see also https://www.maastrichtuniversity.nl/news/egon-willighagen%E2%80%99s-efforts-promote-open-science-awarded-national-open-science-festival -->
 
 `2013`
 **Royal Society of Chemistry eScience Hero Award**
@@ -550,6 +552,14 @@ Development Kit, $2500. [<i class="fa-solid fa-newspaper"></i> press release](ht
 **Blue Obelisk Award**
 For achievements in promoting Open Data, Open Source, and Open Standards
 in cheminformatics.
+
+### Nominations
+
+`2025`
+**Nomination Excellence in Biocuration Advanced Career Award**
+From [the nomination](https://www.biocuration.org/community/biocuration-career-awards/excellence-in-biocuration-advanced-career-award-2025/):
+*"Egon is an exceptional scientist and biocurator as his interests range widely,
+he is highly proactive in engaging many communities, and he has an inhuman amount of energy!"*
 
 ## Grants and funding
 
@@ -564,6 +574,10 @@ Dutch Research Council (NWO) / TDCC-NES. Sum: 400 k€, Person: ?? k€. *Sole P
 `2025-present`
 **FAIRify your metabolomics data: achieving convergence on standards for reuse-ready data and workflows (FAIRify)** <!-- Coordinator: Leiden University. Other: UM, a few others. -->
 Dutch Research Council (NWO) / TDCC-LSH. Sum: ? k€, Person: ?? k€. *Sole PI*.
+
+`2024-present` <!-- until 2027-04-30 -->
+**Impuls Open Science Community Maastricht** <!-- Coordinator: OSCM -->
+Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 500.050.202306](https://www.nwo.nl/en/projects/500050202306). Sum: 100 k€. *Co-applicant with OSCM*.
 
 `2024-present`
 **INTOXICOM Implementation Study**. <!-- Coordinator: UM. Other: . -->
@@ -784,4 +798,4 @@ Advanced: English
 
 Basic: German
 
-<br/>Last updated: May 2025<br/><br/>
+<br/>Last updated: Juli 2025<br/><br/>
