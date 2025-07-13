@@ -59,7 +59,7 @@ University*, Cologne, Germany.
 
 ## Publications
 
-**Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 53.
+**Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 52.
 
 **Web of Science** H-index: 41. Citations: 7,505 (without self: 7,149). Highly Cited Papers: 8. Citations per article: 51.04
 
