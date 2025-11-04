@@ -6,7 +6,7 @@ title: Egon Willighagen's CV
 # Egon Willighagen
 Assistant professor, Maastricht University.
 
-<i>2025-04-08</i>
+<i>2025-11-04</i>
 
 <a href="egon.willighagen@maastrichtuniversity.nl">egon.willighagen@maastrichtuniversity.nl</a>
 
@@ -59,7 +59,7 @@ University*, Cologne, Germany.
 
 ## Publications
 
-**Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 52.
+**Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 53.
 
 **Web of Science** H-index: 41. Citations: 7,505 (without self: 7,149). Highly Cited Papers: 8. Citations per article: 51.04
 
@@ -768,6 +768,14 @@ Arjen Dijkgraag. **Open accessstress**. C2W (2018), [https://www.sciencelink.net
 `2017`
 Puck Moll. **Focus op software**, C2W (2017), [https://www.sciencelink.net/nieuws-and-verdieping/focus-op-software/5919.article](https://www.sciencelink.net/nieuws-and-verdieping/focus-op-software/5919.article)
 
+### Podcasts
+
+`2022`
+**Eiwitten vouwen en de chemie van biologie met dr. Egon Willighagen**, Met Nerds om Tafel (2022), [https://vriendvandeshow.nl/mnot/episodes/s10e21-eiwitten-vouwen-en-de-chemie-van-biologie-met-dr-egon-willighagen](https://vriendvandeshow.nl/mnot/episodes/s10e21-eiwitten-vouwen-en-de-chemie-van-biologie-met-dr-egon-willighagen)
+
+`2018`
+**The Untapped Potential**, The Road to Open Science (2018), [https://openscience-utrecht.com/r2os-episode-4/](https://openscience-utrecht.com/r2os-episode-4/)
+
 ### News
 
 `2021`
@@ -802,5 +810,3 @@ Native: Dutch
 Advanced: English
 
 Basic: German
-
-<br/>Last updated: July 2025<br/><br/>
