@@ -721,6 +721,9 @@ Working Group Chair, Database Working Group, EU NanoSafety Cluster
 ### Editorial Boards
 
 `2025-present`
+Editor, BioHackrXiv (Preprint server)
+
+`2025-present`
 Guest-editor, Journal of Cheminformatics (Springer Nature. Top10 journal)
 
 `2016-2021`
@@ -728,6 +731,8 @@ Editor-in-Chief, Journal of Cheminformatics (Springer Nature. Top10 journal)
 
 `2010`
 Guest-editor, Journal of Cheminformatics (Springer Nature. Top10 journal)
+
+### Other
 
 `2009-2016`
 Invited Expert, World Wide Web Consortium (W3C)
