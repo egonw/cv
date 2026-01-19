@@ -608,7 +608,7 @@ European Commission H2020. [<i class="fa-regular fa-money-bill-1"></i> 862195](h
 
 `2019-2021`
 **Scholia**, <!-- Coordinator: University of Virginia. Other: UM -->
-Alfred P. Sloan Foundation. [<i class="fa-regular fa-money-bill-1"></i> G-2019-11458](https://sloan.org/grant-detail/g-2019-11458). Sum: 496 k€, UM: 75 k€. *Sole PI*. doi:[10.3897/rio.5.e35820]https://doi.org/10.3897/rio.5.e35820)
+Alfred P. Sloan Foundation. [<i class="fa-regular fa-money-bill-1"></i> G-2019-11458](https://sloan.org/grant-detail/g-2019-11458). Sum: 496 k€, UM: 75 k€. *Sole PI*. doi:[10.3897/rio.5.e35820](https://doi.org/10.3897/rio.5.e35820)
 
 `2019-2023`
 **Risk Governance of Nanotechnology (RiskGONE)**, <!-- Coordinator: NILU. Other: UM -->
