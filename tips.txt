@@ -1,4 +1,9 @@
 
+npm install @citation-js/core
+npm install @citation-js/plugin-csl
+npm install @citation-js/plugin-doi
+
+// copy and tweak protoype.text to prototype.markdown in node_modules/citeproc/citeproc_commonjs.js
 
 curl -vLH'Accept: application/json' https://orcid.org/0000-0001-7542-0286 > me.json
 cat me.json | jq '.' > me_formatted.json

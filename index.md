@@ -6,7 +6,7 @@ title: Egon Willighagen's CV
 # Egon Willighagen
 Assistant professor, Maastricht University.
 
-<i>2025-11-04</i>
+<i>2026-01-19</i>
 
 <a href="egon.willighagen@maastrichtuniversity.nl">egon.willighagen@maastrichtuniversity.nl</a>
 
@@ -59,9 +59,9 @@ University*, Cologne, Germany.
 
 ## Publications
 
-**Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 53.
+**Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 54.
 
-**Web of Science** H-index: 42. Citations: 8,048 (without self: 7,691). Highly Cited Papers: 8. Citations per article: 50.94
+**Web of Science** H-index: 42. Citations: 8,072 (without self: 7,715). Highly Cited Papers: 7. Citations per article: 51.41
 
 **NIH iCite**: Mean RCR: 3.44. Articles in NIH Top 1%: 5, Top 10%: 17
 
@@ -70,6 +70,8 @@ University*, Cologne, Germany.
 Scientific publications in international journals with a referee system.
 
 `2025`
+Dumit, V. I., Furxhi, I., Nymark, P., Afantitis, A., Ammar, A., Amorim, M. J. B., Antunes, D., Avramova, S., Battistelli, C. L., Basei, G., Bossa, C., Cimpan, E., Cimpan, M. R., Ciornii, D., Costa, A., Delpivo, C., Dusinska, M., Fonseca, A. S., Friedrichs, S., … Lynch, I. (2025). Challenges and Future Directions in Assessing the Quality and Completeness of Advanced Materials Safety Data for Re‐Usability: A Position Paper From the Nanosafety Community. *Advanced Sustainable Systems*. doi:[10.1002/adsu.202500567](https://doi.org/10.1002/adsu.202500567)
+
 Kienhuis, A., Krul, C., van Engelen, J., Evelo, C., Hessel, E., Hoekman, J., Kramer, N., Krop, E., Masereeuw, R., Moors, E., Negro, S., Piersma, A., Pieters, R., Teunis, M., **Willighagen, E.**, Legler, J. (2025). The Virtual Human Platform for Safety Assessment (VHP4Safety) project: Next generation chemical safety assessment based on human data. (2024). *ALTEX*. doi:[10.14573/altex.2407211](https://doi.org/10.14573/altex.2407211)
 
 `2024`
