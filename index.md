@@ -237,10 +237,10 @@ Spjuth, O., Berg, A., Adams, S., & **Willighagen, E. L.** (2013). Applications o
 
 **Willighagen, E. L.**, Waagmeester, A., Spjuth, O., Ansell, P., Williams, A. J., Tkachenko, V., Hastings, J., Chen, B., & Wild, D. J. (2013). The ChEMBL database as linked open data. *Journal of Cheminformatics*, *5*(1). doi:[10.1186/1758-2946-5-23](https://doi.org/10.1186/1758-2946-5-23)
 
+Kohonen, P., Benfenati, E., Bower, D., Ceder, R., Crump, M., Cross, K., Grafström, R. C., Healy, L., Helma, C., Jeliazkova, N., Jeliazkov, V., Maggioni, S., Miller, S., Myatt, G., Rautenberg, M., Stacey, G., **Willighagen, E.**, Wiseman, J., & Hardy, B. (2013). The ToxBank Data Warehouse: Supporting the Replacement of In Vivo Repeated Dose Systemic Toxicity Testing. *Molecular Informatics*, *32*(1), 47–63. doi:[10.1002/minf.201200114](https://doi.org/10.1002/minf.201200114)
+
 `2012`
 Spjuth, O., Georgiev, V., Carlsson, L., Alvarsson, J., Berg, A., **Willighagen, E.**, Wikberg, J. E. S., & Eklund, M. (2012). Bioclipse-R: integrating management and visualization of life science data with statistical analysis. *Bioinformatics*, *29*(2), 286–289. doi:[10.1093/bioinformatics/bts681](https://doi.org/10.1093/bioinformatics/bts681)
-
-Kohonen, P., Benfenati, E., Bower, D., Ceder, R., Crump, M., Cross, K., Grafström, R. C., Healy, L., Helma, C., Jeliazkova, N., Jeliazkov, V., Maggioni, S., Miller, S., Myatt, G., Rautenberg, M., Stacey, G., **Willighagen, E.**, Wiseman, J., & Hardy, B. (2013). The ToxBank Data Warehouse: Supporting the Replacement of In Vivo Repeated Dose Systemic Toxicity Testing. *Molecular Informatics*, *32*(1), 47–63. doi:[10.1002/minf.201200114](https://doi.org/10.1002/minf.201200114)
 
 Marshall, M. S., Boyce, R., Deus, H. F., Zhao, J., **Willighagen, E. L.**, Samwald, M., Pichler, E., Hajagos, J., Prud’hommeaux, E., & Stephens, S. (2012). Emerging practices for mapping and linking life sciences data using RDF — A case series. *Journal of Web Semantics*, *14*, 2–13. doi:[10.1016/j.websem.2012.02.003](https://doi.org/10.1016/j.websem.2012.02.003)
 
