@@ -9,6 +9,12 @@ curl -vLH'Accept: application/json' https://orcid.org/0000-0001-7542-0286 > me.j
 cat me.json | jq '.' > me_formatted.json
 jq '."activities-summary".works.group[]."external-ids"."external-id"[] | select(."external-id-type"=="doi") | ."external-id-normalized".value' me_formatted.json
 
-
+//
 
 nodejs journal-articles.js  | sed -e 's+https://doi.org/\(.*\)+doi:[\1](https://doi.org/\1)+' | sed -e 's/\(Willighagen, E.\)/**\1**/' | sed -e 's/E.\*\* L./E. L.**/'
+
+//
+
+iCite statistics. you can search based on DOIs: https://pmc.ncbi.nlm.nih.gov/tools/idconv
+
+Or just on name.

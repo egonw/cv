@@ -70,6 +70,8 @@ University*, Cologne, Germany.
 Scientific publications in international journals with a referee system.
 
 `2025`
+Garrard, C., Heil, K. F., Aspromonte, M. C., Batut, B., Chegkazi, M., Hancock, J. M., Harrison, E., Ishaque, N., Kerry, G., Korpelainen, E., Lanfear, J., Martin, C., Schaaf, S., Scollen, S., Tseng, Y.-Y., Velankar, S., Vizcaíno, J. A., Waterhouse, R. M., **Willighagen, E.**, … Maccallum, P. (2025). Fostering and sustaining collaborative innovation: Insights from ELIXIR Europe’s life science Communities. *F1000Research*, *14*, 884. doi:[10.12688/f1000research.168288.1](https://doi.org/10.12688/f1000research.168288.1)
+
 Dumit, V. I., Furxhi, I., Nymark, P., Afantitis, A., Ammar, A., Amorim, M. J. B., Antunes, D., Avramova, S., Battistelli, C. L., Basei, G., Bossa, C., Cimpan, E., Cimpan, M. R., Ciornii, D., Costa, A., Delpivo, C., Dusinska, M., Fonseca, A. S., Friedrichs, S., … Lynch, I. (2025). Challenges and Future Directions in Assessing the Quality and Completeness of Advanced Materials Safety Data for Re‐Usability: A Position Paper From the Nanosafety Community. *Advanced Sustainable Systems*. doi:[10.1002/adsu.202500567](https://doi.org/10.1002/adsu.202500567)
 
 Kienhuis, A., Krul, C., van Engelen, J., Evelo, C., Hessel, E., Hoekman, J., Kramer, N., Krop, E., Masereeuw, R., Moors, E., Negro, S., Piersma, A., Pieters, R., Teunis, M., **Willighagen, E.**, Legler, J. (2025). The Virtual Human Platform for Safety Assessment (VHP4Safety) project: Next generation chemical safety assessment based on human data. (2024). *ALTEX*. doi:[10.14573/altex.2407211](https://doi.org/10.14573/altex.2407211)
