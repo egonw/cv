@@ -573,19 +573,19 @@ he is highly proactive in engaging many communities, and he has an inhuman amoun
 
 `2025-present`
 **FAIR4ChemNL: Accelerating the adoption of universal data standards in chemistry** <!-- Coordinator: Delft University. Other: UM, a few others. -->
-Dutch Research Council (NWO) / TDCC-NES. Sum: 400 k€, Person: ?? k€. *Sole PI*.
+Dutch Research Council (NWO) / TDCC-NES, [<i class="fa-regular fa-money-bill-1"></i> 10.61686/XVYQV45374](https://doi.org/10.61686/XVYQV45374). Sum: 400 k€, Person: ?? k€. *Sole PI*.
 
 `2025-present`
 **FAIRify your metabolomics data: achieving convergence on standards for reuse-ready data and workflows (FAIRify)** <!-- Coordinator: Leiden University. Other: UM, a few others. -->
-Dutch Research Council (NWO) / TDCC-LSH. Sum: ? k€, Person: ?? k€. *Sole PI*.
+Dutch Research Council (NWO) / TDCC-LSH, [<i class="fa-regular fa-money-bill-1"></i> 10.61686/CSGIP04334](https://doi.org/10.61686/CSGIP04334). Sum: ? k€, Person: ?? k€. *Sole PI*.
 
 `2024-present` <!-- until 2027-04-30 -->
 **Impuls Open Science Community Maastricht** <!-- Coordinator: OSCM -->
 Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 500.050.202306](https://www.nwo.nl/en/projects/500050202306). Sum: 100 k€. *Co-applicant with OSCM*.
 
 `2024-present`
-**INTOXICOM Implementation Study**. <!-- Coordinator: UM. Other: . -->
-ELIXIR Europe. Sum: 59 k€, Person: ?? k€. *Co-PI with Marvin Martens*
+**Integrating the Toxicology Community into ELIXIR (INTOXICOM)**. <!-- Coordinator: UM. Other: . -->
+ELIXIR Europe. Sum: 59 k€, Person: ?? k€, [<i class="fa-regular fa-money-bill-1"></i> INTOXICOM](https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community). *Co-PI with Marvin Martens*
 
 `2023-present`
 **TGX-MAP: Transcriptomics in Risk Assessment**. <!-- Coordinator: Leiden University. Other: UM, a few more. -->
