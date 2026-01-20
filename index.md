@@ -573,7 +573,7 @@ he is highly proactive in engaging many communities, and he has an inhuman amoun
 
 `2025-present`
 **FAIR4ChemNL: Accelerating the adoption of universal data standards in chemistry** <!-- Coordinator: Delft University. Other: UM, a few others. -->
-Dutch Research Council (NWO) / TDCC-NES, [<i class="fa-regular fa-money-bill-1"></i> 10.61686/XVYQV45374](https://doi.org/10.61686/XVYQV45374). Sum: 400 k€, Person: ?? k€. *Sole PI*.
+Dutch Research Council (NWO) / TDCC-NES, [<i class="fa-regular fa-money-bill-1"></i> 10.61686/XVYQV45374](https://doi.org/10.61686/XVYQV45374). Sum: 400 k€, Person: 74 k€. *Sole PI*.
 
 `2025-present`
 **FAIRify your metabolomics data: achieving convergence on standards for reuse-ready data and workflows (FAIRify)** <!-- Coordinator: Leiden University. Other: UM, a few others. -->
@@ -583,17 +583,21 @@ Dutch Research Council (NWO) / TDCC-LSH, [<i class="fa-regular fa-money-bill-1">
 **Impuls Open Science Community Maastricht** <!-- Coordinator: OSCM -->
 Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 500.050.202306](https://www.nwo.nl/en/projects/500050202306). Sum: 100 k€. *Co-applicant with OSCM*.
 
-`2024-present`
-**Integrating the Toxicology Community into ELIXIR (INTOXICOM)**. <!-- Coordinator: UM. Other: . -->
-ELIXIR Europe. Sum: 59 k€, Person: ?? k€, [<i class="fa-regular fa-money-bill-1"></i> INTOXICOM](https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community). *Co-PI with Marvin Martens*
+`2024-present` <!-- until 2027 -->
+**Next level of reproducible, comparable and integrable metabolomics** <!-- Coordinator: ? -->
+ELIXIR Europe. Sum: 602 k€, Person: 1 k€, [<i class="fa-regular fa-money-bill-1"></i> ](https://elixir-europe.org/how-we-work/scientific-programme/science/cmr/metabolomics). *Co-PI with Denise Slenter*
 
 `2023-present`
 **TGX-MAP: Transcriptomics in Risk Assessment**. <!-- Coordinator: Leiden University. Other: UM, a few more. -->
-EFSA. Sum: ?? k€, UM: 276 k€. *Co-PI with Tooba Abbassi-Daloii and Marvin Martens*.
+EFSA. Sum: 5 M€, UM: 276 k€. *Co-PI with Tooba Abbassi-Daloii and Marvin Martens*.
 
 `2021-present`
 **The Virtual Human Platform for Safety Assessment (VHP4Safety)**. 
 Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> NWA 1292.19.272](https://www.nwo.nl/projecten/nwa129219272). Sum: 10.4 M€, UM: 1.38 M€. *Co-PI with Chris Evelo*.
+
+`2024-2025`
+**Integrating the Toxicology Community into ELIXIR (INTOXICOM)**. <!-- Coordinator: UM. Other: . -->
+ELIXIR Europe. Sum: 59 k€, Person: ?? k€, [<i class="fa-regular fa-money-bill-1"></i> INTOXICOM](https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community). *Co-PI with Marvin Martens*
 
 `2024-2025`
 **Chemistry Development Kit 2024**. <!-- Coordinator: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO). Sum: 50 k€, Person: 25 k€. *Sole PI*. doi:[10.3897/rio.10.e124884](https://doi.org/10.3897/rio.10.e124884)
