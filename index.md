@@ -6,7 +6,7 @@ title: Egon Willighagen's CV
 # Egon Willighagen
 Assistant professor, Maastricht University.
 
-<i>2026-01-19</i>
+<i>2026-01-20</i>
 
 <a href="egon.willighagen@maastrichtuniversity.nl">egon.willighagen@maastrichtuniversity.nl</a>
 
@@ -63,7 +63,7 @@ University*, Cologne, Germany.
 
 **Web of Science** H-index: 42. Citations: 8,072 (without self: 7,715). Highly Cited Papers: 7. Citations per article: 51.41
 
-**NIH iCite**: Mean RCR: 3.44. Articles in NIH Top 1%: 5, Top 10%: 17
+**NIH iCite**: Mean RCR: 3.40. Articles in NIH Top 1%: 6, Top 10%: 17
 
 ### Journal articles
 
