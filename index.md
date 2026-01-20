@@ -577,7 +577,7 @@ Dutch Research Council (NWO) / TDCC-NES, [<i class="fa-regular fa-money-bill-1">
 
 `2025-present`
 **FAIRify your metabolomics data: achieving convergence on standards for reuse-ready data and workflows (FAIRify)** <!-- Coordinator: Leiden University. Other: UM, a few others. -->
-Dutch Research Council (NWO) / TDCC-LSH, [<i class="fa-regular fa-money-bill-1"></i> 10.61686/CSGIP04334](https://doi.org/10.61686/CSGIP04334). Sum: ? k€, Person: ?? k€. *Sole PI*.
+Dutch Research Council (NWO) / TDCC-LSH, [<i class="fa-regular fa-money-bill-1"></i> 10.61686/CSGIP04334](https://doi.org/10.61686/CSGIP04334). Sum: 330 k€, Person: 28 k€. *Sole PI*.
 
 `2024-present` <!-- until 2027-04-30 -->
 **Impuls Open Science Community Maastricht** <!-- Coordinator: OSCM -->
