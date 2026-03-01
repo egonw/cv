@@ -69,6 +69,9 @@ University*, Cologne, Germany.
 
 Scientific publications in international journals with a referee system.
 
+`2026`
+Gadiya, Y., Millán Acosta, J., Ammar, A., Adriaque Lozano, A., Wetstede, D., Martinát, D., Sima, A. C., Mei, H., **Willighagen, E.**, & Abbassi-Daloii, T. (2026). pyBiodatafuse: extending interoperability of data using modular queries across biomedical resources. *Bioinformatics*, *42*(3). doi:[10.1093/bioinformatics/btag064](https://doi.org/10.1093/bioinformatics/btag064)
+
 `2025`
 Garrard, C., Heil, K. F., Aspromonte, M. C., Batut, B., Chegkazi, M., Hancock, J. M., Harrison, E., Ishaque, N., Kerry, G., Korpelainen, E., Lanfear, J., Martin, C., Schaaf, S., Scollen, S., Tseng, Y.-Y., Velankar, S., Vizcaíno, J. A., Waterhouse, R. M., **Willighagen, E.**, … Maccallum, P. (2025). Fostering and sustaining collaborative innovation: Insights from ELIXIR Europe’s life science Communities. *F1000Research*, *14*, 884. doi:[10.12688/f1000research.168288.1](https://doi.org/10.12688/f1000research.168288.1)
 
@@ -577,7 +580,7 @@ Dutch Research Council (NWO) / TDCC-NES, [<i class="fa-regular fa-money-bill-1">
 
 `2025-present`
 **FAIRify your metabolomics data: achieving convergence on standards for reuse-ready data and workflows (FAIRify)** <!-- Coordinator: Leiden University. Other: UM, a few others. -->
-Dutch Research Council (NWO) / TDCC-LSH, [<i class="fa-regular fa-money-bill-1"></i> 10.61686/CSGIP04334](https://doi.org/10.61686/CSGIP04334). Sum: 330 k€, Person: 28 k€. *Sole PI*.
+Dutch Research Council (NWO) / TDCC-LSH, [<i class="fa-regular fa-money-bill-1"></i> 10.61686/CSGIP04334](https://doi.org/10.61686/CSGIP04334). Sum: 330 k€, Person: 28 k€. *Co-PI with Denise Slenter*.
 
 `2024-present` <!-- until 2027-04-30 -->
 **Impuls Open Science Community Maastricht** <!-- Coordinator: OSCM -->
