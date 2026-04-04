@@ -61,7 +61,7 @@ University*, Cologne, Germany.
 
 **Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 54.
 
-**Web of Science** H-index: 42. Citations: 8,072 (without self: 7,715). Highly Cited Papers: 7. Citations per article: 51.41
+**Web of Science** H-index: 43. Citations: 8,629 (without self: 8,245). Highly Cited Papers: 7. Citations per article: 51.98
 
 **NIH iCite**: Mean RCR: 3.40. Articles in NIH Top 1%: 6, Top 10%: 17
 
@@ -70,6 +70,8 @@ University*, Cologne, Germany.
 Scientific publications in international journals with a referee system.
 
 `2026`
+Kuligowski, J., Bertrand-Michel, J., Cazenave-Gassiot, A., Goracci, L., Domingues, P., Orešič, M., Thorsteinsdottir, M., Gruber, F., **Willighagen, E. L.**, Spickett, C. M., Ruskovska, T., O’Donnell, V. B., Prabutzki, P., Petrović, S., Godzien, J., Tortorella, S., Reis, A., Dias, I. H. K., Schleyer, G., … Fedorova, M. (2026). Outcomes and future activities of the ‘Pan-European network in Lipidomics and EpiLipidomics – EpiLipidNET.’ *Metabolomics*, *22*(2). doi:[10.1007/s11306-026-02396-7](https://doi.org/10.1007/s11306-026-02396-7)
+
 Gadiya, Y., Millán Acosta, J., Ammar, A., Adriaque Lozano, A., Wetstede, D., Martinát, D., Sima, A. C., Mei, H., **Willighagen, E.**, & Abbassi-Daloii, T. (2026). pyBiodatafuse: extending interoperability of data using modular queries across biomedical resources. *Bioinformatics*, *42*(3). doi:[10.1093/bioinformatics/btag064](https://doi.org/10.1093/bioinformatics/btag064)
 
 `2025`
