@@ -15,7 +15,7 @@ Assistant professor, Maastricht University.
   <a href="https://chem-bla-ics.linkedchemistry.info/"><i class="fa-solid fa-blog"></i> chem-bla-ics.linkedchemistry.info</a> - 
   <!-- a href="https://egonw.github.io"><i class="fa-solid fa-house"></i> egonw.github.io</a> - --> <br />
   <a href="https://github.com/egonw"><i class="fa-brands fa-github"></i> egonw</a> - 
-  <a href="https://www.linkedin.com/in/egon-willighagen/"><i class="fa-brands fa-linkedin"></i> egon-willighagen</a> - 
+  <!-- a href="https://www.linkedin.com/in/egon-willighagen/"><i class="fa-brands fa-linkedin"></i> egon-willighagen</a> - --> 
   <a href="https://social.edu.nl/@egonw"><i class="fa-brands fa-mastodon"></i> egonw</a> - 
   <a href="https://bsky.app/profile/egonw.social.edu.nl.ap.brid.gy"><i class="fa-brands fa-bluesky"></i> @egonw.ap.brid.gy</a>
 </div>
