@@ -595,7 +595,7 @@ Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 500.05
 ELIXIR Europe. Sum: 602 k€, Person: 1 k€, [<i class="fa-regular fa-money-bill-1"></i> ](https://elixir-europe.org/how-we-work/scientific-programme/science/cmr/metabolomics). *Co-PI with Denise Slenter*
 
 `2023-present`
-**TGX-MAP: Transcriptomics in Risk Assessment**. <!-- Coordinator: Leiden University. Other: UM, a few more. -->
+**TXG-MAP: Transcriptomics in Risk Assessment**. <!-- Coordinator: Leiden University. Other: UM, a few more. -->
 EFSA. Sum: 5 M€, UM: 276 k€. *Co-PI with Tooba Abbassi-Daloii and Marvin Martens*.
 
 `2021-present`
