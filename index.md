@@ -59,11 +59,11 @@ University*, Cologne, Germany.
 
 ## Publications
 
-**Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 54.
+**Google Scholar** [u8SjMZ0AAAAJ](https://scholar.google.fi/citations?user=u8SjMZ0AAAAJ). H-index: 56.
 
-**Web of Science** H-index: 44. Citations: 8,8623 (without self: 8,477). Highly Cited Papers: 7. Citations per article: 53.72
+**Web of Science** H-index: 44. Citations: 8,965 (without self: 8,579). Highly Cited Papers: 7. Citations per article: 54.33
 
-**NIH iCite**: Mean RCR: 3.40. Articles in NIH Top 1%: 6, Top 10%: 17
+**NIH iCite**: Mean RCR: 3.59. Articles in NIH Top 1%: 6, Top 10%: 15
 
 ### Journal articles
 
@@ -75,6 +75,8 @@ Houweling, J. M., Arras, M. M. L., **Willighagen, E. L.**, Jennen, D. G. J., Eve
 Kuligowski, J., Bertrand-Michel, J., Cazenave-Gassiot, A., Goracci, L., Domingues, P., Orešič, M., Thorsteinsdottir, M., Gruber, F., **Willighagen, E. L.**, Spickett, C. M., Ruskovska, T., O’Donnell, V. B., Prabutzki, P., Petrović, S., Godzien, J., Tortorella, S., Reis, A., Dias, I. H. K., Schleyer, G., … Fedorova, M. (2026). Outcomes and future activities of the ‘Pan-European network in Lipidomics and EpiLipidomics – EpiLipidNET.’ *Metabolomics*, *22*(2). doi:[10.1007/s11306-026-02396-7](https://doi.org/10.1007/s11306-026-02396-7)
 
 Gadiya, Y., Millán Acosta, J., Ammar, A., Adriaque Lozano, A., Wetstede, D., Martinát, D., Sima, A. C., Mei, H., **Willighagen, E.**, & Abbassi-Daloii, T. (2026). pyBiodatafuse: extending interoperability of data using modular queries across biomedical resources. *Bioinformatics*, *42*(3). doi:[10.1093/bioinformatics/btag064](https://doi.org/10.1093/bioinformatics/btag064)
+
+Malsch, I., **Willighagen, E.**, Sánchez Burmester, C. F., & Mody, C. (2026). Ethical Impact Assessment of Sharing Nanosafety Data. *Open Research Europe*, *4*, 237. [https://doi.org/10.12688/openreseurope.18345.2](https://doi.org/10.12688/openreseurope.18345.2)
 
 `2025`
 Garrard, C., Heil, K. F., Aspromonte, M. C., Batut, B., Chegkazi, M., Hancock, J. M., Harrison, E., Ishaque, N., Kerry, G., Korpelainen, E., Lanfear, J., Martin, C., Schaaf, S., Scollen, S., Tseng, Y.-Y., Velankar, S., Vizcaíno, J. A., Waterhouse, R. M., **Willighagen, E.**, … Maccallum, P. (2025). Fostering and sustaining collaborative innovation: Insights from ELIXIR Europe’s life science Communities. *F1000Research*, *14*, 884. doi:[10.12688/f1000research.168288.1](https://doi.org/10.12688/f1000research.168288.1)
@@ -578,6 +580,10 @@ he is highly proactive in engaging many communities, and he has an inhuman amoun
 
 ### Research grants
 
+'2026-present'
+**Schema-Driven Interoperability of Biomedical Data Resources for Improved Knowledge Dissemination and Reuse**
+Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 10.61686/AQNSM35060](https://doi.org/10.61686/AQNSM35060).
+
 `2025-present`
 **FAIR4ChemNL: Accelerating the adoption of universal data standards in chemistry** <!-- Coordinator: Delft University. Other: UM, a few others. -->
 Dutch Research Council (NWO) / TDCC-NES, [<i class="fa-regular fa-money-bill-1"></i> 10.61686/XVYQV45374](https://doi.org/10.61686/XVYQV45374). Sum: 400 k€, Person: 74 k€. *Sole PI*.
@@ -699,7 +705,7 @@ Bio.tools project; $\sim$5 kEuro).
 
 ## Memberships
 
-`1993-???,???-present`
+`1993-2012,2017-present`
 **KNCV**
 
 `2023-2024`
@@ -721,11 +727,11 @@ Advisory Board Member, NFDI4Chem
 `2022-present`
 Founder of the Open Science Community Maastricht
 
-`2020-present`
-Co-Lead Toxicology Community, ELIXIR Europe
-
 `2014-present`
 Board Member, Stichting Chemische Congressen 6
+
+`2020-2026`
+Co-Lead Toxicology Community, ELIXIR Europe
 
 `2020-2022`
 Scientific Advisor, International Advisory Board of the NanoFabNet Project
@@ -733,7 +739,7 @@ Scientific Advisor, International Advisory Board of the NanoFabNet Project
 `2018-2024`
 Working Group Chair, Database Working Group, EU NanoSafety Cluster
 
-`2013-2026`
+`2013-2016`
 Working Group Chair, Database Working Group, EU NanoSafety Cluster
 
 ### Editorial Boards
@@ -741,7 +747,7 @@ Working Group Chair, Database Working Group, EU NanoSafety Cluster
 `2025-present`
 Editor, BioHackrXiv (Preprint server)
 
-`2025-present`
+`2025-2026`
 Guest-editor, Journal of Cheminformatics (Springer Nature. Top10 journal)
 
 `2016-2021`
