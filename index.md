@@ -705,7 +705,7 @@ Bio.tools project; $\sim$5 kEuro).
 
 ## Memberships
 
-`1993-2012,2017-present`
+`1993-2009,2017-present`
 **KNCV**
 
 `2023-2024`
