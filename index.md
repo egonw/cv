@@ -580,7 +580,7 @@ he is highly proactive in engaging many communities, and he has an inhuman amoun
 
 ### Research grants
 
-'2026-present'
+`2026-present`
 **Schema-Driven Interoperability of Biomedical Data Resources for Improved Knowledge Dissemination and Reuse**
 Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 10.61686/AQNSM35060](https://doi.org/10.61686/AQNSM35060).
 
