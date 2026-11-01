@@ -670,7 +670,12 @@ Bio.tools project; $\sim$5 kEuro).
 
 ## Talks
 
+<!-- regular talks in talks.md -->
+
 ### Keynotes
+
+`2026`
+**National Onboarding Event on Research Software and Interoperability Management**. Utrecht, The Netherlands
 
 `2022`
 **OpenTox Virtual Conference 2022**. Online.
