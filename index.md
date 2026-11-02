@@ -613,7 +613,7 @@ Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> NWA 12
 ELIXIR Europe. Sum: 59 k€, Person: ?? k€, [<i class="fa-regular fa-money-bill-1"></i> INTOXICOM](https://elixir-europe.org/internal-projects/commissioned-services/integrating-toxicology-community). *Co-PI with Marvin Martens*
 
 `2024-2025`
-**Chemistry Development Kit 2024**. <!-- Coordinator: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO). Sum: 50 k€, Person: 25 k€. *Sole PI*. doi:[10.3897/rio.10.e124884](https://doi.org/10.3897/rio.10.e124884)
+**Chemistry Development Kit 2024**. <!-- Coordinator: Egon Willighagen. Other: Hogeschool Utrecht. --> Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 10.61686/LNUBB88005](https://doi.org/10.61686/LNUBB88005). Sum: 50 k€, Person: 25 k€. *Coordinator*. Proposal doi:[10.3897/rio.10.e124884](https://doi.org/10.3897/rio.10.e124884)
 
 `2022-2023`
 **Lipid Pathway Curation**. <!-- Coordinator: Cardiff University. Other: UM -->
@@ -621,7 +621,7 @@ ELIXIR Europe. Sum: ?? k€, UM: 5.7 k€. *Co-PI with Denise Slenter*.
 
 `2022-2023`
 **BridgeDb and Wikidata: a powerful combination generating interoperable open research**, <!-- Coordinator: UM. -->
-Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 203.001.121](https://www.nwo.nl/en/projects/203001121). Sum: 50 k€, UM: 50 k€. *Sole PI*. doi:[10.3897/rio.8.e83031](https://doi.org/10.3897/rio.8.e83031)
+Dutch Research Council (NWO), [<i class="fa-regular fa-money-bill-1"></i> 203.001.121](https://www.nwo.nl/en/projects/203001121). Sum: 50 k€, UM: 50 k€. *Coordinator*. Proposal doi:[10.3897/rio.8.e83031](https://doi.org/10.3897/rio.8.e83031)
 
 `2020-2024`
 **Computing infrastructure for the definition, performance testing and implementation of safe-by-design approaches in nanotechnology supply chains (SbD4nano)**, <!-- Coordinator: ITENE. Other: UM -->
